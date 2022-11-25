@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "-path:kanban -path:temp -tag:#Tutorium -file:README -file:index",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#FoSAP",
+      "color": {
+        "a": 1,
+        "rgb": 4674278
+      }
+    },
+    {
+      "query": "tag:#LA",
+      "color": {
+        "a": 1,
+        "rgb": 3205933
+      }
+    },
+    {
+      "query": "tag:#DSAL",
+      "color": {
+        "a": 1,
+        "rgb": 16727357
+      }
+    },
+    {
+      "query": "tag:#BuK",
+      "color": {
+        "a": 1,
+        "rgb": 14825149
+      }
+    },
+    {
+      "query": "tag:#AfI",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#DatKom",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0.1,
+  "nodeSizeMultiplier": 1.05235332511422,
+  "lineSizeMultiplier": 2.54377275537542,
+  "collapse-forces": false,
+  "centerStrength": 0.718549028108967,
+  "repelStrength": 11.597658790375,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.6206586602971856,
+  "close": true
+}

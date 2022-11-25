@@ -1,0 +1,138 @@
+[
+  {
+    "tag": "la",
+    "tagCount": 7,
+    "relativePaths": [
+      "LA/Vektorräume.md",
+      "LA/Untervektorräume.md",
+      "LA/Linearkombinationen.md",
+      "LA/Lineare Unabhängigkeit.md",
+      "LA/Lineare Hülle.md",
+      "LA/Erzeugendensystem.md",
+      "LA/Basis.md"
+    ]
+  },
+  {
+    "tag": "fosap",
+    "tagCount": 10,
+    "relativePaths": [
+      "FoSAP/Potenzmengenautomat.md",
+      "FoSAP/Produktautomat.md",
+      "FoSAP/Sprachen.md",
+      "FoSAP/Reguläre Ausdrücke.md",
+      "FoSAP/NFA.md",
+      "FoSAP/Erreichbarkeitsmengen.md",
+      "FoSAP/Epsilon-NFA.md",
+      "FoSAP/DFA.md",
+      "FoSAP/Automaten.md",
+      "FoSAP/Alphabet.md"
+    ]
+  },
+  {
+    "tag": "todo",
+    "tagCount": 2,
+    "relativePaths": [
+      "FoSAP/Potenzmengenautomat.md",
+      "FoSAP/Erreichbarkeitsmengen.md"
+    ]
+  },
+  {
+    "tag": "dsal",
+    "tagCount": 14,
+    "relativePaths": [
+      "DSAL/Stack.md",
+      "DSAL/Sortierverfahren.md",
+      "DSAL/Selection Sort.md",
+      "DSAL/Queue.md",
+      "DSAL/Entwurfsparadigmen.md",
+      "DSAL/List.md",
+      "DSAL/Insertion Sort.md",
+      "DSAL/Heap.md",
+      "DSAL/Graphen.md",
+      "DSAL/Bubble Sort.md",
+      "DSAL/Einfach verkettete Liste.md",
+      "DSAL/Doppelt verkettete Liste.md",
+      "DSAL/Datentypen.md",
+      "DSAL/Bäume.md"
+    ]
+  },
+  {
+    "tag": "progra",
+    "tagCount": 4,
+    "relativePaths": [
+      "DSAL/List.md",
+      "DSAL/Einfach verkettete Liste.md",
+      "DSAL/Datentypen.md",
+      "DSAL/Bäume.md"
+    ]
+  },
+  {
+    "tag": "ds",
+    "tagCount": 3,
+    "relativePaths": [
+      "DSAL/Graphen.md",
+      "DSAL/Datentypen.md",
+      "DSAL/Bäume.md"
+    ]
+  },
+  {
+    "tag": "buk",
+    "tagCount": 14,
+    "relativePaths": [
+      "BuK/universelle TM.md",
+      "BuK/k-Band-TM.md",
+      "BuK/Unentscheidbare Probleme.md",
+      "BuK/Turing Machine.md",
+      "BuK/Rekursive Aufzählbarkeit.md",
+      "BuK/Registermaschinen.md",
+      "BuK/Postsches Korrespondenzproblem.md",
+      "BuK/LOOP-Programme.md",
+      "BuK/Entscheidungsprobleme.md",
+      "BuK/Polynomialzeitalgorithmus.md",
+      "BuK/Nichtdeterministische Turing Machine.md",
+      "BuK/Gödelnummern.md",
+      "BuK/Entscheidbarkeit.md",
+      "BuK/Drucker.md"
+    ]
+  },
+  {
+    "tag": "datkom",
+    "tagCount": 3,
+    "relativePaths": [
+      "DatKom/Sicherungsschicht.md",
+      "DatKom/ISO OSI Referenzmodell.md",
+      "DatKom/Bitübertragungsschicht.md"
+    ]
+  },
+  {
+    "tag": "afi",
+    "tagCount": 25,
+    "relativePaths": [
+      "AfI/reelle Zahlen.md",
+      "AfI/komplexe Zahlen.md",
+      "AfI/kartesisches Produkt.md",
+      "AfI/e-Funktion.md",
+      "AfI/Tupel.md",
+      "AfI/Stetigkeit.md",
+      "AfI/Schranken.md",
+      "AfI/Relation.md",
+      "AfI/Reihen.md",
+      "AfI/Polynome.md",
+      "AfI/Natürliche Zahlen.md",
+      "AfI/Mengen.md",
+      "AfI/Mengen-Algebra.md",
+      "AfI/Körper.md",
+      "AfI/Konvergenz + Divergenz.md",
+      "AfI/Induktion.md",
+      "AfI/Grenzwerte von Funktionen.md",
+      "AfI/Gauß'sche Zahlenebene.md",
+      "AfI/Folgen.md",
+      "AfI/Exponentialreihe.md",
+      "AfI/Dichte.md",
+      "AfI/Cauchy-Folge.md",
+      "AfI/Beweisverfahren.md",
+      "AfI/Abzählbarkeit.md",
+      "AfI/Abbildungen.md"
+    ]
+  }
+]

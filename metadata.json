@@ -1,0 +1,4166 @@
+[
+  {
+    "fileName": "Vektorräume",
+    "relativePath": "LA/Vektorräume.md",
+    "tags": [
+      "la"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 41
+        }
+      }
+    },
+    "aliases": [
+      "Vektorraum"
+    ],
+    "headings": [
+      {
+        "heading": "Vektorräume",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 3
+      },
+      {
+        "heading": "Variablennamen",
+        "level": 3
+      },
+      {
+        "heading": "Vektorraumaxiome",
+        "level": 3
+      },
+      {
+        "heading": "Addition",
+        "level": 4
+      },
+      {
+        "heading": "Multiplikation",
+        "level": 4
+      },
+      {
+        "heading": "Beispiele",
+        "level": 3
+      },
+      {
+        "heading": "Weiterführend",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Körper",
+        "relativePath": "AfI/Körper.md"
+      },
+      {
+        "link": "abelsche Gruppe"
+      },
+      {
+        "link": "Untervektorräume",
+        "relativePath": "LA/Untervektorräume.md"
+      },
+      {
+        "link": "Linearkombinationen",
+        "relativePath": "LA/Linearkombinationen.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Untervektorräume",
+        "link": "Vektorräume#^e0e2c0",
+        "relativePath": "LA/Untervektorräume.md",
+        "cleanLink": "Vektorräume",
+        "displayText": "Addition"
+      },
+      {
+        "fileName": "Untervektorräume",
+        "link": "Vektorräume#^81c34c",
+        "relativePath": "LA/Untervektorräume.md",
+        "cleanLink": "Vektorräume",
+        "displayText": "Skalare Multiplikation"
+      },
+      {
+        "fileName": "Untervektorräume",
+        "link": "Vektorräume#^62fe9b",
+        "relativePath": "LA/Untervektorräume.md",
+        "cleanLink": "Vektorräume",
+        "displayText": "Vektorräume > ^62fe9b"
+      },
+      {
+        "fileName": "Lineare Hülle",
+        "link": "Vektorräume",
+        "relativePath": "LA/Lineare Hülle.md",
+        "displayText": "Vektorraum"
+      },
+      {
+        "fileName": "Erzeugendensystem",
+        "link": "Vektorräume",
+        "relativePath": "LA/Erzeugendensystem.md",
+        "displayText": "Vektorraum"
+      },
+      {
+        "fileName": "Basis",
+        "link": "Vektorräume",
+        "relativePath": "LA/Basis.md",
+        "displayText": "Vektorraum"
+      }
+    ]
+  },
+  {
+    "fileName": "Untervektorräume",
+    "relativePath": "LA/Untervektorräume.md",
+    "tags": [
+      "la"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 68
+        }
+      }
+    },
+    "aliases": [
+      "Untervektorraum",
+      "Unterräume",
+      "Unterraum"
+    ],
+    "headings": [
+      {
+        "heading": "Untervektorräume",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Variablennamen",
+        "level": 2
+      },
+      {
+        "heading": "Beispiele",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Vektorräume#^e0e2c0",
+        "cleanLink": "Vektorräume",
+        "displayText": "Addition",
+        "relativePath": "LA/Vektorräume.md"
+      },
+      {
+        "link": "Vektorräume#^81c34c",
+        "cleanLink": "Vektorräume",
+        "displayText": "Skalare Multiplikation",
+        "relativePath": "LA/Vektorräume.md"
+      },
+      {
+        "link": "Vektorräume#^62fe9b",
+        "cleanLink": "Vektorräume",
+        "displayText": "Vektorräume > ^62fe9b",
+        "relativePath": "LA/Vektorräume.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Vektorräume",
+        "link": "Untervektorräume",
+        "relativePath": "LA/Vektorräume.md"
+      },
+      {
+        "fileName": "Lineare Hülle",
+        "link": "Untervektorräume",
+        "relativePath": "LA/Lineare Hülle.md",
+        "displayText": "Unterraum"
+      }
+    ]
+  },
+  {
+    "fileName": "Linearkombinationen",
+    "relativePath": "LA/Linearkombinationen.md",
+    "tags": [
+      "la"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 47
+        }
+      }
+    },
+    "aliases": [
+      "Linearkombination"
+    ],
+    "headings": [
+      {
+        "heading": "Linearkombinationen",
+        "level": 1
+      },
+      {
+        "heading": "Notation",
+        "level": 3
+      },
+      {
+        "heading": "Beispiele",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Gauß-Verfahren"
+      },
+      {
+        "link": "Erzeugendensystem",
+        "displayText": "EZS",
+        "relativePath": "LA/Erzeugendensystem.md"
+      },
+      {
+        "link": "Erzeugendensystem",
+        "displayText": "EZS",
+        "relativePath": "LA/Erzeugendensystem.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Vektorräume",
+        "link": "Linearkombinationen",
+        "relativePath": "LA/Vektorräume.md"
+      },
+      {
+        "fileName": "Lineare Hülle",
+        "link": "Linearkombinationen",
+        "relativePath": "LA/Lineare Hülle.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Lineare Unabhängigkeit",
+    "relativePath": "LA/Lineare Unabhängigkeit.md",
+    "tags": [
+      "la"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 1,
+          "col": 0,
+          "offset": 1
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 19
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Lineare Unabhängigkeit",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Basis",
+        "link": "Lineare Unabhängigkeit",
+        "relativePath": "LA/Basis.md",
+        "displayText": "linear unabhängiges"
+      }
+    ]
+  },
+  {
+    "fileName": "Lineare Hülle",
+    "relativePath": "LA/Lineare Hülle.md",
+    "tags": [
+      "la"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 37
+        }
+      }
+    },
+    "aliases": [
+      "Erzeugnis"
+    ],
+    "headings": [
+      {
+        "heading": "Lineare Hülle",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Körper",
+        "relativePath": "AfI/Körper.md"
+      },
+      {
+        "link": "Vektorräume",
+        "displayText": "Vektorraum",
+        "relativePath": "LA/Vektorräume.md"
+      },
+      {
+        "link": "Linearkombinationen",
+        "relativePath": "LA/Linearkombinationen.md"
+      },
+      {
+        "link": "Untervektorräume",
+        "displayText": "Unterraum",
+        "relativePath": "LA/Untervektorräume.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Erzeugendensystem",
+        "link": "Lineare Hülle",
+        "relativePath": "LA/Erzeugendensystem.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Erzeugendensystem",
+    "relativePath": "LA/Erzeugendensystem.md",
+    "tags": [
+      "la"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 33
+        }
+      }
+    },
+    "aliases": [
+      "EZS"
+    ],
+    "headings": [
+      {
+        "heading": "Erzeugendensystem (EZS)",
+        "level": 1
+      },
+      {
+        "heading": "Beispiele",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Körper",
+        "relativePath": "AfI/Körper.md"
+      },
+      {
+        "link": "Vektorräume",
+        "displayText": "Vektorraum",
+        "relativePath": "LA/Vektorräume.md"
+      },
+      {
+        "link": "Lineare Hülle",
+        "relativePath": "LA/Lineare Hülle.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Linearkombinationen",
+        "link": "Erzeugendensystem",
+        "relativePath": "LA/Linearkombinationen.md",
+        "displayText": "EZS"
+      },
+      {
+        "fileName": "Linearkombinationen",
+        "link": "Erzeugendensystem",
+        "relativePath": "LA/Linearkombinationen.md",
+        "displayText": "EZS"
+      },
+      {
+        "fileName": "Basis",
+        "link": "Erzeugendensystem",
+        "relativePath": "LA/Basis.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Basis",
+    "relativePath": "LA/Basis.md",
+    "tags": [
+      "la"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 35
+        }
+      }
+    },
+    "aliases": [
+      "Basen"
+    ],
+    "headings": [
+      {
+        "heading": "Basis",
+        "level": 1
+      },
+      {
+        "heading": "Beispiele",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Körper",
+        "relativePath": "AfI/Körper.md"
+      },
+      {
+        "link": "Vektorräume",
+        "displayText": "Vektorraum",
+        "relativePath": "LA/Vektorräume.md"
+      },
+      {
+        "link": "Lineare Unabhängigkeit",
+        "displayText": "linear unabhängiges",
+        "relativePath": "LA/Lineare Unabhängigkeit.md"
+      },
+      {
+        "link": "Erzeugendensystem",
+        "relativePath": "LA/Erzeugendensystem.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Topic Template",
+    "relativePath": "temp/Topic Template.md",
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 28
+        }
+      }
+    }
+  },
+  {
+    "fileName": "Potenzmengenautomat",
+    "relativePath": "FoSAP/Potenzmengenautomat.md",
+    "tags": [
+      "fosap",
+      "todo"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 21
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Potenzmengenautomat",
+        "level": 1
+      },
+      {
+        "heading": "Beispiel",
+        "level": 2
+      },
+      {
+        "heading": "Reduzierter PMA",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "NFA",
+        "relativePath": "FoSAP/NFA.md"
+      },
+      {
+        "link": "DFA",
+        "relativePath": "FoSAP/DFA.md"
+      },
+      {
+        "link": "NFA",
+        "relativePath": "FoSAP/NFA.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Automaten",
+        "link": "Potenzmengenautomat",
+        "relativePath": "FoSAP/Automaten.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Produktautomat",
+    "relativePath": "FoSAP/Produktautomat.md",
+    "tags": [
+      "fosap"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 21
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Produktautomat",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "DFA",
+        "link": "Produktautomat",
+        "relativePath": "FoSAP/DFA.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Sprachen",
+    "relativePath": "FoSAP/Sprachen.md",
+    "tags": [
+      "fosap"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 57
+        }
+      }
+    },
+    "aliases": [
+      "Sprache",
+      "Formale Sprache"
+    ],
+    "headings": [
+      {
+        "heading": "Sprachen",
+        "level": 1
+      },
+      {
+        "heading": "Operationen auf Sprachen",
+        "level": 2
+      },
+      {
+        "heading": "Vereinigung, Schnitt, Differenz ($\\cap,\\cup,\\backslash$)",
+        "level": 3
+      },
+      {
+        "heading": "Verkettung",
+        "level": 3
+      },
+      {
+        "heading": "Assoziativ-/Distributivgesetze",
+        "level": 3
+      },
+      {
+        "heading": "Iteration",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Alphabet",
+        "relativePath": "FoSAP/Alphabet.md"
+      },
+      {
+        "link": "Reguläre Ausdrücke",
+        "displayText": "Regulären Ausdruck",
+        "relativePath": "FoSAP/Reguläre Ausdrücke.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Reguläre Ausdrücke",
+        "link": "Sprachen",
+        "relativePath": "FoSAP/Reguläre Ausdrücke.md"
+      },
+      {
+        "fileName": "Reguläre Ausdrücke",
+        "link": "Sprachen#Operationen auf Sprachen",
+        "relativePath": "FoSAP/Reguläre Ausdrücke.md",
+        "cleanLink": "Sprachen",
+        "displayText": "Mengenoperationen"
+      },
+      {
+        "fileName": "DFA",
+        "link": "Sprachen",
+        "relativePath": "FoSAP/DFA.md",
+        "displayText": "Sprache"
+      },
+      {
+        "fileName": "Entscheidbarkeit",
+        "link": "Sprachen",
+        "relativePath": "BuK/Entscheidbarkeit.md",
+        "displayText": "Sprache"
+      },
+      {
+        "fileName": "Entscheidbarkeit",
+        "link": "Sprachen",
+        "relativePath": "BuK/Entscheidbarkeit.md",
+        "displayText": "Sprache"
+      }
+    ]
+  },
+  {
+    "fileName": "Reguläre Ausdrücke",
+    "relativePath": "FoSAP/Reguläre Ausdrücke.md",
+    "tags": [
+      "fosap"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 51
+        }
+      }
+    },
+    "aliases": [
+      "Regulären Ausdruck"
+    ],
+    "headings": [
+      {
+        "heading": "Reguläre Ausdrücke",
+        "level": 1
+      },
+      {
+        "heading": "Beispiele",
+        "level": 2
+      },
+      {
+        "heading": "Syntax",
+        "level": 2
+      },
+      {
+        "heading": "Vereinfachungen",
+        "level": 3
+      },
+      {
+        "heading": "Sprachen aus Regulären Audrücken",
+        "level": 2
+      },
+      {
+        "heading": "Reguläre Audrücke in Unix",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Sprachen",
+        "relativePath": "FoSAP/Sprachen.md"
+      },
+      {
+        "link": "Sprachen#Operationen auf Sprachen",
+        "cleanLink": "Sprachen",
+        "displayText": "Mengenoperationen",
+        "relativePath": "FoSAP/Sprachen.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sprachen",
+        "link": "Reguläre Ausdrücke",
+        "relativePath": "FoSAP/Sprachen.md",
+        "displayText": "Regulären Ausdruck"
+      }
+    ]
+  },
+  {
+    "fileName": "NFA",
+    "relativePath": "FoSAP/NFA.md",
+    "tags": [
+      "fosap"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 73
+        }
+      }
+    },
+    "aliases": [
+      "Nichtdeterministischer endlicher Automat"
+    ],
+    "headings": [
+      {
+        "heading": "Nichtdeterministischer endlicher Automat (NFA)",
+        "level": 1
+      },
+      {
+        "heading": "Beispiel",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Alphabet.md",
+        "displayText": "",
+        "relativePath": "FoSAP/Alphabet.md"
+      },
+      {
+        "link": "DFA",
+        "relativePath": "FoSAP/DFA.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Potenzmengenautomat",
+        "link": "NFA",
+        "relativePath": "FoSAP/Potenzmengenautomat.md"
+      },
+      {
+        "fileName": "Potenzmengenautomat",
+        "link": "NFA",
+        "relativePath": "FoSAP/Potenzmengenautomat.md"
+      },
+      {
+        "fileName": "Erreichbarkeitsmengen",
+        "link": "NFA",
+        "relativePath": "FoSAP/Erreichbarkeitsmengen.md"
+      },
+      {
+        "fileName": "Epsilon-NFA",
+        "link": "NFA",
+        "relativePath": "FoSAP/Epsilon-NFA.md"
+      },
+      {
+        "fileName": "Automaten",
+        "link": "NFA",
+        "relativePath": "FoSAP/Automaten.md",
+        "displayText": "Nichdeterministischer endlicher Automat (NFA)"
+      },
+      {
+        "fileName": "Automaten",
+        "link": "NFA",
+        "relativePath": "FoSAP/Automaten.md"
+      },
+      {
+        "fileName": "Automaten",
+        "link": "NFA",
+        "relativePath": "FoSAP/Automaten.md",
+        "displayText": "NFAs"
+      },
+      {
+        "fileName": "Nichtdeterministische Turing Machine",
+        "link": "NFA",
+        "relativePath": "BuK/Nichtdeterministische Turing Machine.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Erreichbarkeitsmengen",
+    "relativePath": "FoSAP/Erreichbarkeitsmengen.md",
+    "tags": [
+      "fosap",
+      "todo"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 53
+        }
+      }
+    },
+    "aliases": [
+      "Erreichbarkeitsmenge"
+    ],
+    "headings": [
+      {
+        "heading": "Erreichbarkeitsmengen",
+        "level": 1
+      },
+      {
+        "heading": "Beispiel",
+        "level": 2
+      },
+      {
+        "heading": "Analyse",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "NFA",
+        "relativePath": "FoSAP/NFA.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Epsilon-NFA",
+    "relativePath": "FoSAP/Epsilon-NFA.md",
+    "tags": [
+      "fosap"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 21
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Epsilon-NFA",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "NFA",
+        "relativePath": "FoSAP/NFA.md"
+      }
+    ]
+  },
+  {
+    "fileName": "DFA",
+    "relativePath": "FoSAP/DFA.md",
+    "tags": [
+      "fosap"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 68
+        }
+      }
+    },
+    "aliases": [
+      "Deterministischer Endlicher Automat"
+    ],
+    "headings": [
+      {
+        "heading": "Deterministischer Endlicher Automat (DFA)",
+        "level": 1
+      },
+      {
+        "heading": "Beispiel",
+        "level": 2
+      },
+      {
+        "heading": "Lauf",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Alphabet.md",
+        "displayText": "",
+        "relativePath": "FoSAP/Alphabet.md"
+      },
+      {
+        "link": "Produktautomat",
+        "relativePath": "FoSAP/Produktautomat.md"
+      },
+      {
+        "link": "Sprachen",
+        "displayText": "Sprache",
+        "relativePath": "FoSAP/Sprachen.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Potenzmengenautomat",
+        "link": "DFA",
+        "relativePath": "FoSAP/Potenzmengenautomat.md"
+      },
+      {
+        "fileName": "NFA",
+        "link": "DFA",
+        "relativePath": "FoSAP/NFA.md"
+      },
+      {
+        "fileName": "Automaten",
+        "link": "DFA",
+        "relativePath": "FoSAP/Automaten.md",
+        "displayText": "Deterministischer endlicher Automat (DFA)"
+      },
+      {
+        "fileName": "Automaten",
+        "link": "DFA",
+        "relativePath": "FoSAP/Automaten.md"
+      },
+      {
+        "fileName": "Automaten",
+        "link": "DFA",
+        "relativePath": "FoSAP/Automaten.md",
+        "displayText": "DFAs"
+      }
+    ]
+  },
+  {
+    "fileName": "Automaten",
+    "relativePath": "FoSAP/Automaten.md",
+    "tags": [
+      "fosap"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 40
+        }
+      }
+    },
+    "aliases": [
+      "Automat"
+    ],
+    "headings": [
+      {
+        "heading": "Automaten",
+        "level": 1
+      },
+      {
+        "heading": "Typen",
+        "level": 2
+      },
+      {
+        "heading": "Äquivalenz",
+        "level": 2
+      },
+      {
+        "heading": "DFA $\\rightarrow$ NFA",
+        "level": 3
+      },
+      {
+        "heading": "NFA $\\rightarrow$ DFA",
+        "level": 3
+      },
+      {
+        "heading": "FA-Erkennbar",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "DFA",
+        "displayText": "Deterministischer endlicher Automat (DFA)",
+        "relativePath": "FoSAP/DFA.md"
+      },
+      {
+        "link": "NFA",
+        "displayText": "Nichdeterministischer endlicher Automat (NFA)",
+        "relativePath": "FoSAP/NFA.md"
+      },
+      {
+        "link": "DFA",
+        "relativePath": "FoSAP/DFA.md"
+      },
+      {
+        "link": "NFA",
+        "relativePath": "FoSAP/NFA.md"
+      },
+      {
+        "link": "Potenzmengenautomat",
+        "relativePath": "FoSAP/Potenzmengenautomat.md"
+      },
+      {
+        "link": "DFA",
+        "displayText": "DFAs",
+        "relativePath": "FoSAP/DFA.md"
+      },
+      {
+        "link": "NFA",
+        "displayText": "NFAs",
+        "relativePath": "FoSAP/NFA.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Alphabet",
+    "relativePath": "FoSAP/Alphabet.md",
+    "tags": [
+      "fosap"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 21
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Alphabet",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sprachen",
+        "link": "Alphabet",
+        "relativePath": "FoSAP/Sprachen.md"
+      },
+      {
+        "fileName": "NFA",
+        "link": "Alphabet.md",
+        "relativePath": "FoSAP/NFA.md"
+      },
+      {
+        "fileName": "DFA",
+        "link": "Alphabet.md",
+        "relativePath": "FoSAP/DFA.md"
+      },
+      {
+        "fileName": "Turing Machine",
+        "link": "Alphabet",
+        "relativePath": "BuK/Turing Machine.md",
+        "displayText": "alphabet"
+      },
+      {
+        "fileName": "Turing Machine",
+        "link": "Alphabet",
+        "relativePath": "BuK/Turing Machine.md",
+        "displayText": "alphabet"
+      }
+    ]
+  },
+  {
+    "fileName": "Stack",
+    "relativePath": "DSAL/Stack.md",
+    "tags": [
+      "dsal"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 20
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Stack",
+        "level": 1
+      },
+      {
+        "heading": "Array-Implementierung",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "List",
+        "displayText": "Liste",
+        "relativePath": "DSAL/List.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Datentypen",
+        "link": "Stack",
+        "relativePath": "DSAL/Datentypen.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Sortierverfahren",
+    "relativePath": "DSAL/Sortierverfahren.md",
+    "tags": [
+      "dsal"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 50
+        }
+      }
+    },
+    "aliases": [
+      "Sortieralgorithmen"
+    ],
+    "headings": [
+      {
+        "heading": "Sortierverfahren",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Selection Sort",
+        "relativePath": "DSAL/Selection Sort.md"
+      },
+      {
+        "link": "Bubble Sort",
+        "relativePath": "DSAL/Bubble Sort.md"
+      },
+      {
+        "link": "Insertion Sort",
+        "relativePath": "DSAL/Insertion Sort.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Selection Sort",
+    "relativePath": "DSAL/Selection Sort.md",
+    "tags": [
+      "dsal"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 32
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Selectionsort",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sortierverfahren",
+        "link": "Selection Sort",
+        "relativePath": "DSAL/Sortierverfahren.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Queue",
+    "relativePath": "DSAL/Queue.md",
+    "tags": [
+      "dsal"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 45
+        }
+      }
+    },
+    "aliases": [
+      "Warteschlange"
+    ],
+    "headings": [
+      {
+        "heading": "Queue",
+        "level": 1
+      },
+      {
+        "heading": "Array-Implementierung",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "List",
+        "displayText": "Liste",
+        "relativePath": "DSAL/List.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Datentypen",
+        "link": "Queue",
+        "relativePath": "DSAL/Datentypen.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Entwurfsparadigmen",
+    "relativePath": "DSAL/Entwurfsparadigmen.md",
+    "tags": [
+      "dsal"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 32
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Entwurfsparadigmen",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "List",
+    "relativePath": "DSAL/List.md",
+    "tags": [
+      "progra",
+      "dsal"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 46
+        }
+      }
+    },
+    "aliases": [
+      "Liste"
+    ],
+    "headings": [
+      {
+        "heading": "List",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Einfach verkettete Liste",
+        "displayText": "Einfach verkettete Liste (SinglyLinkedList)",
+        "relativePath": "DSAL/Einfach verkettete Liste.md"
+      },
+      {
+        "link": "Doppelt verkettete Liste",
+        "displayText": "Doppelt verkettete Liste (DoublyLinkedList)",
+        "relativePath": "DSAL/Doppelt verkettete Liste.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Stack",
+        "link": "List",
+        "relativePath": "DSAL/Stack.md",
+        "displayText": "Liste"
+      },
+      {
+        "fileName": "Queue",
+        "link": "List",
+        "relativePath": "DSAL/Queue.md",
+        "displayText": "Liste"
+      },
+      {
+        "fileName": "Einfach verkettete Liste",
+        "link": "List",
+        "relativePath": "DSAL/Einfach verkettete Liste.md",
+        "displayText": "Liste"
+      },
+      {
+        "fileName": "Doppelt verkettete Liste",
+        "link": "List",
+        "relativePath": "DSAL/Doppelt verkettete Liste.md",
+        "displayText": "Liste"
+      },
+      {
+        "fileName": "Datentypen",
+        "link": "List",
+        "relativePath": "DSAL/Datentypen.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Insertion Sort",
+    "relativePath": "DSAL/Insertion Sort.md",
+    "tags": [
+      "dsal"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 32
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Insertion Sort",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sortierverfahren",
+        "link": "Insertion Sort",
+        "relativePath": "DSAL/Sortierverfahren.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Heap",
+    "relativePath": "DSAL/Heap.md",
+    "tags": [
+      "dsal"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 20
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Heap",
+        "level": 1
+      },
+      {
+        "heading": "Einfügen von Elementen",
+        "level": 3
+      },
+      {
+        "heading": "Entfernen von Elementen",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Bäume",
+        "displayText": "Binärbaum",
+        "relativePath": "DSAL/Bäume.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Graphen",
+    "relativePath": "DSAL/Graphen.md",
+    "tags": [
+      "dsal",
+      "ds"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 42
+        }
+      }
+    },
+    "aliases": [
+      "Graph"
+    ],
+    "headings": [
+      {
+        "heading": "Graphen",
+        "level": 1
+      },
+      {
+        "heading": "Adjazenzmatrix",
+        "level": 2
+      },
+      {
+        "heading": "Adjazenzliste",
+        "level": 2
+      },
+      {
+        "heading": "Planarer Graph",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Datentypen",
+        "link": "Graphen",
+        "relativePath": "DSAL/Datentypen.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Bubble Sort",
+    "relativePath": "DSAL/Bubble Sort.md",
+    "tags": [
+      "dsal"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 32
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Bubble Sort",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sortierverfahren",
+        "link": "Bubble Sort",
+        "relativePath": "DSAL/Sortierverfahren.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Einfach verkettete Liste",
+    "relativePath": "DSAL/Einfach verkettete Liste.md",
+    "tags": [
+      "progra",
+      "dsal"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 57
+        }
+      }
+    },
+    "aliases": [
+      "SinglyLinkedList"
+    ],
+    "headings": [
+      {
+        "heading": "Einfach verkettete [[List|Liste]] (SinglyLinkedList)",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "List",
+        "displayText": "Liste",
+        "relativePath": "DSAL/List.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "List",
+        "link": "Einfach verkettete Liste",
+        "relativePath": "DSAL/List.md",
+        "displayText": "Einfach verkettete Liste (SinglyLinkedList)"
+      }
+    ]
+  },
+  {
+    "fileName": "Doppelt verkettete Liste",
+    "relativePath": "DSAL/Doppelt verkettete Liste.md",
+    "tags": [
+      "dsal"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 48
+        }
+      }
+    },
+    "aliases": [
+      "DoublyLinkedList"
+    ],
+    "headings": [
+      {
+        "heading": "Doppelt verkettete [[List|Liste]] (DoublyLinkedList)",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "List",
+        "displayText": "Liste",
+        "relativePath": "DSAL/List.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "List",
+        "link": "Doppelt verkettete Liste",
+        "relativePath": "DSAL/List.md",
+        "displayText": "Doppelt verkettete Liste (DoublyLinkedList)"
+      }
+    ]
+  },
+  {
+    "fileName": "Datentypen",
+    "relativePath": "DSAL/Datentypen.md",
+    "tags": [
+      "progra",
+      "dsal",
+      "ds"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 5,
+          "col": 3,
+          "offset": 34
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Datentypen",
+        "level": 1
+      },
+      {
+        "heading": "Datentypen-Typen",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "List",
+        "relativePath": "DSAL/List.md"
+      },
+      {
+        "link": "Queue",
+        "relativePath": "DSAL/Queue.md"
+      },
+      {
+        "link": "Stack",
+        "relativePath": "DSAL/Stack.md"
+      },
+      {
+        "link": "Bäume",
+        "relativePath": "DSAL/Bäume.md"
+      },
+      {
+        "link": "Graphen",
+        "relativePath": "DSAL/Graphen.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Bäume",
+    "relativePath": "DSAL/Bäume.md",
+    "tags": [
+      "progra",
+      "dsal",
+      "ds"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 6,
+          "col": 3,
+          "offset": 61
+        }
+      }
+    },
+    "aliases": [
+      "Baum",
+      "Binärbaum"
+    ],
+    "headings": [
+      {
+        "heading": "Bäume",
+        "level": 1
+      },
+      {
+        "heading": "Begriffe",
+        "level": 2
+      },
+      {
+        "heading": "Maximale/Minimale Höhe/Knoten",
+        "level": 2
+      },
+      {
+        "heading": "Löschung von Knoten",
+        "level": 2
+      },
+      {
+        "heading": "Blatt-Knoten",
+        "level": 3
+      },
+      {
+        "heading": "nur einen Nachfolger",
+        "level": 3
+      },
+      {
+        "heading": "zwei Nachfolger",
+        "level": 3
+      },
+      {
+        "heading": "Speicherung in Arrays",
+        "level": 2
+      },
+      {
+        "heading": "Traversierung",
+        "level": 2
+      },
+      {
+        "heading": "kD-Bäume",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Heap",
+        "link": "Bäume",
+        "relativePath": "DSAL/Heap.md",
+        "displayText": "Binärbaum"
+      },
+      {
+        "fileName": "Datentypen",
+        "link": "Bäume",
+        "relativePath": "DSAL/Datentypen.md"
+      }
+    ]
+  },
+  {
+    "fileName": "universelle TM",
+    "relativePath": "BuK/universelle TM.md",
+    "tags": [
+      "buk"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 31
+        }
+      }
+    },
+    "links": [
+      {
+        "link": "Turing Machine",
+        "relativePath": "BuK/Turing Machine.md"
+      },
+      {
+        "link": "Gödelnummern",
+        "relativePath": "BuK/Gödelnummern.md"
+      }
+    ]
+  },
+  {
+    "fileName": "k-Band-TM",
+    "relativePath": "BuK/k-Band-TM.md",
+    "tags": [
+      "buk"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 52
+        }
+      }
+    },
+    "aliases": [
+      "k-Band-Turing Machine"
+    ],
+    "links": [
+      {
+        "link": "Turing Machine",
+        "relativePath": "BuK/Turing Machine.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Unentscheidbare Probleme",
+    "relativePath": "BuK/Unentscheidbare Probleme.md",
+    "tags": [
+      "buk"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 79
+        }
+      }
+    },
+    "aliases": [
+      "nicht entscheidbar",
+      "nicht entscheidbare Probleme"
+    ],
+    "links": [
+      {
+        "link": "Mengen#Mächtigkeit",
+        "cleanLink": "Mengen",
+        "displayText": "Mächtigkeit",
+        "relativePath": "AfI/Mengen.md"
+      },
+      {
+        "link": "Turing Machine",
+        "displayText": "Turing Machines",
+        "relativePath": "BuK/Turing Machine.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Turing Machine",
+    "relativePath": "BuK/Turing Machine.md",
+    "tags": [
+      "buk"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 31
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Turing Machine",
+        "level": 1
+      },
+      {
+        "heading": "Besteht aus:",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Alphabet",
+        "displayText": "alphabet",
+        "relativePath": "FoSAP/Alphabet.md"
+      },
+      {
+        "link": "Alphabet",
+        "displayText": "alphabet",
+        "relativePath": "FoSAP/Alphabet.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "universelle TM",
+        "link": "Turing Machine",
+        "relativePath": "BuK/universelle TM.md"
+      },
+      {
+        "fileName": "k-Band-TM",
+        "link": "Turing Machine",
+        "relativePath": "BuK/k-Band-TM.md"
+      },
+      {
+        "fileName": "Unentscheidbare Probleme",
+        "link": "Turing Machine",
+        "relativePath": "BuK/Unentscheidbare Probleme.md",
+        "displayText": "Turing Machines"
+      },
+      {
+        "fileName": "Rekursive Aufzählbarkeit",
+        "link": "Turing Machine",
+        "relativePath": "BuK/Rekursive Aufzählbarkeit.md"
+      },
+      {
+        "fileName": "Entscheidungsprobleme",
+        "link": "Turing Machine",
+        "relativePath": "BuK/Entscheidungsprobleme.md",
+        "displayText": "Turing Maschinen"
+      },
+      {
+        "fileName": "Nichtdeterministische Turing Machine",
+        "link": "Turing Machine",
+        "relativePath": "BuK/Nichtdeterministische Turing Machine.md"
+      },
+      {
+        "fileName": "Gödelnummern",
+        "link": "Turing Machine",
+        "relativePath": "BuK/Gödelnummern.md"
+      },
+      {
+        "fileName": "Entscheidbarkeit",
+        "link": "Turing Machine",
+        "relativePath": "BuK/Entscheidbarkeit.md"
+      },
+      {
+        "fileName": "Entscheidbarkeit",
+        "link": "Turing Machine",
+        "relativePath": "BuK/Entscheidbarkeit.md"
+      },
+      {
+        "fileName": "Drucker",
+        "link": "Turing Machine",
+        "relativePath": "BuK/Drucker.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Rekursive Aufzählbarkeit",
+    "relativePath": "BuK/Rekursive Aufzählbarkeit.md",
+    "tags": [
+      "buk"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 61
+        }
+      }
+    },
+    "aliases": [
+      "Rekursiv Aufzählbar",
+      "Aufzähler"
+    ],
+    "links": [
+      {
+        "link": "Turing Machine",
+        "relativePath": "BuK/Turing Machine.md"
+      },
+      {
+        "link": "Drucker",
+        "relativePath": "BuK/Drucker.md"
+      },
+      {
+        "link": " Erkennbar",
+        "displayText": "Semi-Entscheidbar",
+        "relativePath": "BuK/Entscheidbarkeit.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Entscheidbarkeit",
+        "link": "Rekursive Aufzählbarkeit",
+        "relativePath": "BuK/Entscheidbarkeit.md",
+        "displayText": "Rekursiv aufzählbar"
+      }
+    ]
+  },
+  {
+    "fileName": "Registermaschinen",
+    "relativePath": "BuK/Registermaschinen.md",
+    "tags": [
+      "buk"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 47
+        }
+      }
+    },
+    "aliases": [
+      "Registermaschine"
+    ],
+    "headings": [
+      {
+        "heading": "Befehle",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Entscheidungsprobleme",
+        "link": "Registermaschinen",
+        "relativePath": "BuK/Entscheidungsprobleme.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Postsches Korrespondenzproblem",
+    "relativePath": "BuK/Postsches Korrespondenzproblem.md",
+    "tags": [
+      "buk"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 65
+        }
+      }
+    },
+    "aliases": [
+      "Postsche Korrespondenzproblem",
+      "PKP"
+    ],
+    "headings": [
+      {
+        "heading": "Beispiel",
+        "level": 3
+      },
+      {
+        "heading": "Menge der Dominos",
+        "level": 4
+      },
+      {
+        "heading": "Mögliche Lösung",
+        "level": 4
+      },
+      {
+        "heading": "Modifiziertes PKP",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": " Erkennbar",
+        "displayText": "Semi-Entscheidbaren",
+        "relativePath": "BuK/Entscheidbarkeit.md"
+      }
+    ]
+  },
+  {
+    "fileName": "LOOP-Programme",
+    "relativePath": "BuK/LOOP-Programme.md",
+    "tags": [
+      "buk"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 35
+        }
+      }
+    },
+    "aliases": [
+      "LOOP"
+    ],
+    "headings": [
+      {
+        "heading": "Eigenschaften",
+        "level": 2
+      },
+      {
+        "heading": "Elemente eines LOOP-Programms",
+        "level": 2
+      },
+      {
+        "heading": "Hintereinanderausführung",
+        "level": 3
+      },
+      {
+        "heading": "Loop-Konstrukt",
+        "level": 3
+      },
+      {
+        "heading": "Beispielprogramme",
+        "level": 2
+      },
+      {
+        "heading": "Addition",
+        "level": 4
+      },
+      {
+        "heading": "Multiplikation",
+        "level": 4
+      }
+    ]
+  },
+  {
+    "fileName": "Entscheidungsprobleme",
+    "relativePath": "BuK/Entscheidungsprobleme.md",
+    "tags": [
+      "buk"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 31
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Klasse P (Polynomiell)",
+        "level": 2
+      },
+      {
+        "heading": "Klasse NP (Nichtdeterministisch Polynomiell)",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Polynomialzeitalgorithmus",
+        "relativePath": "BuK/Polynomialzeitalgorithmus.md"
+      },
+      {
+        "link": "Registermaschinen",
+        "relativePath": "BuK/Registermaschinen.md"
+      },
+      {
+        "link": "Turing Machine",
+        "displayText": "Turing Maschinen",
+        "relativePath": "BuK/Turing Machine.md"
+      },
+      {
+        "link": "Nichtdeterministische Turing Machine",
+        "displayText": "NTM",
+        "relativePath": "BuK/Nichtdeterministische Turing Machine.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Polynomialzeitalgorithmus",
+    "relativePath": "BuK/Polynomialzeitalgorithmus.md",
+    "tags": [
+      "buk"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 31
+        }
+      }
+    },
+    "backlinks": [
+      {
+        "fileName": "Entscheidungsprobleme",
+        "link": "Polynomialzeitalgorithmus",
+        "relativePath": "BuK/Entscheidungsprobleme.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Nichtdeterministische Turing Machine",
+    "relativePath": "BuK/Nichtdeterministische Turing Machine.md",
+    "tags": [
+      "buk"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 34
+        }
+      }
+    },
+    "aliases": [
+      "NTM"
+    ],
+    "headings": [
+      {
+        "heading": "Berechnungsbaum",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Turing Machine",
+        "relativePath": "BuK/Turing Machine.md"
+      },
+      {
+        "link": "NFA",
+        "relativePath": "FoSAP/NFA.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Entscheidungsprobleme",
+        "link": "Nichtdeterministische Turing Machine",
+        "relativePath": "BuK/Entscheidungsprobleme.md",
+        "displayText": "NTM"
+      }
+    ]
+  },
+  {
+    "fileName": "Gödelnummern",
+    "relativePath": "BuK/Gödelnummern.md",
+    "tags": [
+      "buk"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 42
+        }
+      }
+    },
+    "aliases": [
+      "Gödelnummer"
+    ],
+    "links": [
+      {
+        "link": "Turing Machine",
+        "relativePath": "BuK/Turing Machine.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "universelle TM",
+        "link": "Gödelnummern",
+        "relativePath": "BuK/universelle TM.md"
+      },
+      {
+        "fileName": "Abzählbarkeit",
+        "link": "Gödelnummern",
+        "relativePath": "AfI/Abzählbarkeit.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Entscheidbarkeit",
+    "relativePath": "BuK/Entscheidbarkeit.md",
+    "tags": [
+      "buk"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 43
+        }
+      }
+    },
+    "aliases": [
+      "Entscheidbar"
+    ],
+    "headings": [
+      {
+        "heading": "Entscheidbar",
+        "level": 2
+      },
+      {
+        "heading": "Semi-Entscheidbar / Erkennbar",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Sprachen",
+        "displayText": "Sprache",
+        "relativePath": "FoSAP/Sprachen.md"
+      },
+      {
+        "link": "Turing Machine",
+        "relativePath": "BuK/Turing Machine.md"
+      },
+      {
+        "link": "Sprachen",
+        "displayText": "Sprache",
+        "relativePath": "FoSAP/Sprachen.md"
+      },
+      {
+        "link": "Turing Machine",
+        "relativePath": "BuK/Turing Machine.md"
+      },
+      {
+        "link": "Rekursive Aufzählbarkeit",
+        "displayText": "Rekursiv aufzählbar",
+        "relativePath": "BuK/Rekursive Aufzählbarkeit.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Rekursive Aufzählbarkeit",
+        "link": " Erkennbar",
+        "relativePath": "BuK/Rekursive Aufzählbarkeit.md",
+        "displayText": "Semi-Entscheidbar"
+      },
+      {
+        "fileName": "Postsches Korrespondenzproblem",
+        "link": " Erkennbar",
+        "relativePath": "BuK/Postsches Korrespondenzproblem.md",
+        "displayText": "Semi-Entscheidbaren"
+      }
+    ]
+  },
+  {
+    "fileName": "Drucker",
+    "relativePath": "BuK/Drucker.md",
+    "tags": [
+      "buk"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 31
+        }
+      }
+    },
+    "links": [
+      {
+        "link": "Turing Machine",
+        "relativePath": "BuK/Turing Machine.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Rekursive Aufzählbarkeit",
+        "link": "Drucker",
+        "relativePath": "BuK/Rekursive Aufzählbarkeit.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Sicherungsschicht",
+    "relativePath": "DatKom/Sicherungsschicht.md",
+    "tags": [
+      "datkom"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "aliases": [
+      "Sicherung",
+      "Schicht 2"
+    ],
+    "backlinks": [
+      {
+        "fileName": "ISO OSI Referenzmodell",
+        "link": "Sicherungsschicht",
+        "relativePath": "DatKom/ISO OSI Referenzmodell.md",
+        "displayText": "Sicherung"
+      }
+    ]
+  },
+  {
+    "fileName": "ISO OSI Referenzmodell",
+    "relativePath": "DatKom/ISO OSI Referenzmodell.md",
+    "tags": [
+      "datkom"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 56
+        }
+      }
+    },
+    "aliases": [
+      "ISO/OSI-Referenzmodell"
+    ],
+    "headings": [
+      {
+        "heading": "Schichten",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Sicherungsschicht",
+        "displayText": "Sicherung",
+        "relativePath": "DatKom/Sicherungsschicht.md"
+      },
+      {
+        "link": "Bitübertragungsschicht",
+        "displayText": "Bitübertragung",
+        "relativePath": "DatKom/Bitübertragungsschicht.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Bitübertragungsschicht",
+    "relativePath": "DatKom/Bitübertragungsschicht.md",
+    "tags": [
+      "datkom"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 75
+        }
+      }
+    },
+    "aliases": [
+      "Physical Layer",
+      "Bitübertragung",
+      "Schicht 1"
+    ],
+    "headings": [
+      {
+        "heading": "Arten der Bitübertragung",
+        "level": 2
+      },
+      {
+        "heading": "Kabelgebunden",
+        "level": 3
+      },
+      {
+        "heading": "Beispiele",
+        "level": 4
+      },
+      {
+        "heading": "Drahtlos",
+        "level": 3
+      },
+      {
+        "heading": "Beispiele",
+        "level": 4
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "ISO OSI Referenzmodell",
+        "link": "Bitübertragungsschicht",
+        "relativePath": "DatKom/ISO OSI Referenzmodell.md",
+        "displayText": "Bitübertragung"
+      }
+    ]
+  },
+  {
+    "fileName": "reelle Zahlen",
+    "relativePath": "AfI/reelle Zahlen.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 31
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Bemerkungen",
+        "level": 3
+      },
+      {
+        "heading": "Lemma",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Körper",
+        "displayText": "Verknüpfungen",
+        "relativePath": "AfI/Körper.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "e-Funktion",
+        "link": "reelle Zahlen",
+        "relativePath": "AfI/e-Funktion.md",
+        "displayText": "Reelle Zahlen"
+      },
+      {
+        "fileName": "Körper",
+        "link": "reelle Zahlen",
+        "relativePath": "AfI/Körper.md",
+        "displayText": "reellen Zahlen"
+      }
+    ]
+  },
+  {
+    "fileName": "komplexe Zahlen",
+    "relativePath": "AfI/komplexe Zahlen.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 31
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Bemerkungen",
+        "level": 3
+      },
+      {
+        "heading": "Beispiele",
+        "level": 3
+      },
+      {
+        "heading": "Herleitung",
+        "level": 2
+      },
+      {
+        "heading": "Bemerkungen",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Körper",
+        "relativePath": "AfI/Körper.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "e-Funktion",
+        "link": "komplexe Zahlen",
+        "relativePath": "AfI/e-Funktion.md"
+      },
+      {
+        "fileName": "Polynome",
+        "link": "komplexe Zahlen",
+        "relativePath": "AfI/Polynome.md",
+        "displayText": "komplexes"
+      },
+      {
+        "fileName": "Gauß'sche Zahlenebene",
+        "link": "komplexe Zahlen",
+        "relativePath": "AfI/Gauß'sche Zahlenebene.md",
+        "displayText": "komplexen"
+      }
+    ]
+  },
+  {
+    "fileName": "kartesisches Produkt",
+    "relativePath": "AfI/kartesisches Produkt.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 31
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Relationen",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Mengen",
+        "relativePath": "AfI/Mengen.md"
+      },
+      {
+        "link": "Tupel",
+        "relativePath": "AfI/Tupel.md"
+      },
+      {
+        "link": "Relation",
+        "relativePath": "AfI/Relation.md"
+      }
+    ]
+  },
+  {
+    "fileName": "e-Funktion",
+    "relativePath": "AfI/e-Funktion.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 31
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Für [[reelle Zahlen|Reelle Zahlen]]",
+        "level": 3
+      },
+      {
+        "heading": "Für [[komplexe Zahlen]]",
+        "level": 3
+      },
+      {
+        "heading": "Verhältnis zu Geometrischen Funktionen",
+        "level": 2
+      },
+      {
+        "heading": "Andere Rechenregeln",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Exponentialreihe",
+        "relativePath": "AfI/Exponentialreihe.md"
+      },
+      {
+        "link": "reelle Zahlen",
+        "displayText": "Reelle Zahlen",
+        "relativePath": "AfI/reelle Zahlen.md"
+      },
+      {
+        "link": "komplexe Zahlen",
+        "relativePath": "AfI/komplexe Zahlen.md"
+      },
+      {
+        "link": "Folgen#Wachstum",
+        "cleanLink": "Folgen",
+        "displayText": "wächst monoton",
+        "relativePath": "AfI/Folgen.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Tupel",
+    "relativePath": "AfI/Tupel.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 44
+        }
+      }
+    },
+    "aliases": [
+      "Paar",
+      "Paare"
+    ],
+    "headings": [
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Tupel in Mengen",
+        "level": 2
+      },
+      {
+        "heading": "geordnete Paare",
+        "level": 2
+      },
+      {
+        "heading": "Kartesisches Produkt",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "kartesisches Produkt",
+        "link": "Tupel",
+        "relativePath": "AfI/kartesisches Produkt.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Stetigkeit",
+    "relativePath": "AfI/Stetigkeit.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 37
+        }
+      }
+    },
+    "aliases": [
+      "stetig"
+    ],
+    "headings": [
+      {
+        "heading": "Arten von Stetigkeit",
+        "level": 2
+      },
+      {
+        "heading": "Stetigkeit",
+        "level": 3
+      },
+      {
+        "heading": "Bemerkungen",
+        "level": 4
+      },
+      {
+        "heading": "Gleichmäßige Stetigkeit",
+        "level": 3
+      },
+      {
+        "heading": "Lipschitz-Stetigkeit",
+        "level": 3
+      },
+      {
+        "heading": "Kontraktion",
+        "level": 3
+      },
+      {
+        "heading": "Beispiele",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Abbildungen",
+        "displayText": "Funktion",
+        "relativePath": "AfI/Abbildungen.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Schranken",
+    "relativePath": "AfI/Schranken.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 41
+        }
+      }
+    },
+    "aliases": [
+      "beschränkt"
+    ],
+    "headings": [
+      {
+        "heading": "Schranken von Mengen",
+        "level": 2
+      },
+      {
+        "heading": "Schranken von Folgen",
+        "level": 2
+      },
+      {
+        "heading": "Supremum und Infimum",
+        "level": 2
+      },
+      {
+        "heading": "Beispiel",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Vollständigkeitsaxiom"
+      },
+      {
+        "link": "Dichte",
+        "relativePath": "AfI/Dichte.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Konvergenz + Divergenz",
+        "link": "Schranken",
+        "relativePath": "AfI/Konvergenz + Divergenz.md",
+        "displayText": "Unbeschränkte"
+      },
+      {
+        "fileName": "Folgen",
+        "link": "Schranken",
+        "relativePath": "AfI/Folgen.md",
+        "displayText": "beschränkt"
+      },
+      {
+        "fileName": "Folgen",
+        "link": "Schranken",
+        "relativePath": "AfI/Folgen.md",
+        "displayText": "beschränkt"
+      },
+      {
+        "fileName": "Folgen",
+        "link": "Schranken",
+        "relativePath": "AfI/Folgen.md",
+        "displayText": "beschränkt"
+      },
+      {
+        "fileName": "Dichte",
+        "link": "Schranken",
+        "relativePath": "AfI/Dichte.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Relation",
+    "relativePath": "AfI/Relation.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 41
+        }
+      }
+    },
+    "aliases": [
+      "Relationen"
+    ],
+    "links": [
+      {
+        "link": "Abbildungen",
+        "displayText": "Abbildung",
+        "relativePath": "AfI/Abbildungen.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "kartesisches Produkt",
+        "link": "Relation",
+        "relativePath": "AfI/kartesisches Produkt.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Reihen",
+    "relativePath": "AfI/Reihen.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 36
+        }
+      }
+    },
+    "aliases": [
+      "Reihe"
+    ],
+    "headings": [
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Beispiele",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Folgen",
+        "displayText": "Folge",
+        "relativePath": "AfI/Folgen.md"
+      },
+      {
+        "link": "Unbestimmt divergent",
+        "displayText": "bestimmt divergent",
+        "relativePath": "AfI/Konvergenz + Divergenz.md"
+      },
+      {
+        "link": "Konvergenz + Divergenz",
+        "displayText": "konvergiert",
+        "relativePath": "AfI/Konvergenz + Divergenz.md"
+      },
+      {
+        "link": "Konvergenz + Divergenz",
+        "displayText": "divergent",
+        "relativePath": "AfI/Konvergenz + Divergenz.md"
+      },
+      {
+        "link": "Konvergenz + Divergenz",
+        "displayText": "divergiert",
+        "relativePath": "AfI/Konvergenz + Divergenz.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Exponentialreihe",
+        "link": "Reihen",
+        "relativePath": "AfI/Exponentialreihe.md",
+        "displayText": "Reihe"
+      },
+      {
+        "fileName": "Exponentialreihe",
+        "link": "Reihen",
+        "relativePath": "AfI/Exponentialreihe.md",
+        "displayText": "Reihe"
+      }
+    ]
+  },
+  {
+    "fileName": "Polynome",
+    "relativePath": "AfI/Polynome.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 31
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Bemerkungen",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "komplexe Zahlen",
+        "displayText": "komplexes",
+        "relativePath": "AfI/komplexe Zahlen.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Natürliche Zahlen",
+    "relativePath": "AfI/Natürliche Zahlen.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 21
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Bemerkung",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Induktion",
+        "relativePath": "AfI/Induktion.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Mengen",
+        "link": "Natürliche Zahlen",
+        "relativePath": "AfI/Mengen.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Mengen",
+    "relativePath": "AfI/Mengen.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 38
+        }
+      }
+    },
+    "aliases": [
+      "Menge"
+    ],
+    "headings": [
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Teilmengen",
+        "level": 2
+      },
+      {
+        "heading": "Gleiche Mengen",
+        "level": 2
+      },
+      {
+        "heading": "Mengen-Algebra:",
+        "level": 2
+      },
+      {
+        "heading": "Mächtigkeit",
+        "level": 3
+      },
+      {
+        "heading": "Komplement",
+        "level": 2
+      },
+      {
+        "heading": "Potenzmenge",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Abzählbarkeit",
+        "displayText": "Überabzählbar",
+        "relativePath": "AfI/Abzählbarkeit.md"
+      },
+      {
+        "link": "Natürliche Zahlen",
+        "relativePath": "AfI/Natürliche Zahlen.md"
+      },
+      {
+        "link": "Mengen-Algebra",
+        "relativePath": "AfI/Mengen-Algebra.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Unentscheidbare Probleme",
+        "link": "Mengen#Mächtigkeit",
+        "relativePath": "BuK/Unentscheidbare Probleme.md",
+        "cleanLink": "Mengen",
+        "displayText": "Mächtigkeit"
+      },
+      {
+        "fileName": "kartesisches Produkt",
+        "link": "Mengen",
+        "relativePath": "AfI/kartesisches Produkt.md"
+      },
+      {
+        "fileName": "Abzählbarkeit",
+        "link": "Mengen#Mächtigkeit",
+        "relativePath": "AfI/Abzählbarkeit.md",
+        "cleanLink": "Mengen",
+        "displayText": "Mächtigkeit"
+      }
+    ]
+  },
+  {
+    "fileName": "Mengen-Algebra",
+    "relativePath": "AfI/Mengen-Algebra.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "aliases": [
+      "Operationen an Mengen"
+    ],
+    "headings": [
+      {
+        "heading": "Differenz",
+        "level": 3
+      },
+      {
+        "heading": "Vereinigung",
+        "level": 3
+      },
+      {
+        "heading": "Durchschnitt",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Mengen",
+        "link": "Mengen-Algebra",
+        "relativePath": "AfI/Mengen.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Körper",
+    "relativePath": "AfI/Körper.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 31
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Beispiele für Körper",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "reelle Zahlen",
+        "displayText": "reellen Zahlen",
+        "relativePath": "AfI/reelle Zahlen.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Vektorräume",
+        "link": "Körper",
+        "relativePath": "LA/Vektorräume.md"
+      },
+      {
+        "fileName": "Lineare Hülle",
+        "link": "Körper",
+        "relativePath": "LA/Lineare Hülle.md"
+      },
+      {
+        "fileName": "Erzeugendensystem",
+        "link": "Körper",
+        "relativePath": "LA/Erzeugendensystem.md"
+      },
+      {
+        "fileName": "Basis",
+        "link": "Körper",
+        "relativePath": "LA/Basis.md"
+      },
+      {
+        "fileName": "reelle Zahlen",
+        "link": "Körper",
+        "relativePath": "AfI/reelle Zahlen.md",
+        "displayText": "Verknüpfungen"
+      },
+      {
+        "fileName": "komplexe Zahlen",
+        "link": "Körper",
+        "relativePath": "AfI/komplexe Zahlen.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Konvergenz + Divergenz",
+    "relativePath": "AfI/Konvergenz + Divergenz.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 75
+        }
+      }
+    },
+    "aliases": [
+      "Konvergenz",
+      "Divergenz",
+      "konvergent",
+      "divergent"
+    ],
+    "headings": [
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Bestimmt/Unbestimmt divergent",
+        "level": 2
+      },
+      {
+        "heading": "Beispiele",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Cauchy-Folge",
+        "displayText": "Cauchy-Folgen",
+        "relativePath": "AfI/Cauchy-Folge.md"
+      },
+      {
+        "link": "Schranken",
+        "displayText": "Unbeschränkte",
+        "relativePath": "AfI/Schranken.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Reihen",
+        "link": "Unbestimmt divergent",
+        "relativePath": "AfI/Reihen.md",
+        "displayText": "bestimmt divergent"
+      },
+      {
+        "fileName": "Reihen",
+        "link": "Konvergenz + Divergenz",
+        "relativePath": "AfI/Reihen.md",
+        "displayText": "konvergiert"
+      },
+      {
+        "fileName": "Reihen",
+        "link": "Konvergenz + Divergenz",
+        "relativePath": "AfI/Reihen.md",
+        "displayText": "divergent"
+      },
+      {
+        "fileName": "Reihen",
+        "link": "Konvergenz + Divergenz",
+        "relativePath": "AfI/Reihen.md",
+        "displayText": "divergiert"
+      },
+      {
+        "fileName": "Grenzwerte von Funktionen",
+        "link": "Unbestimmt divergent",
+        "relativePath": "AfI/Grenzwerte von Funktionen.md",
+        "displayText": "bestimmte Divergenz"
+      },
+      {
+        "fileName": "Grenzwerte von Funktionen",
+        "link": "Konvergenz + Divergenz",
+        "relativePath": "AfI/Grenzwerte von Funktionen.md",
+        "displayText": "divergiert"
+      },
+      {
+        "fileName": "Folgen",
+        "link": "Konvergenz + Divergenz",
+        "relativePath": "AfI/Folgen.md",
+        "displayText": "konvergieren/divergieren"
+      },
+      {
+        "fileName": "Folgen",
+        "link": "Konvergenz + Divergenz",
+        "relativePath": "AfI/Folgen.md",
+        "displayText": "konvergent"
+      },
+      {
+        "fileName": "Folgen",
+        "link": "Konvergenz + Divergenz",
+        "relativePath": "AfI/Folgen.md",
+        "displayText": "konvergent"
+      },
+      {
+        "fileName": "Folgen",
+        "link": "Konvergenz + Divergenz",
+        "relativePath": "AfI/Folgen.md",
+        "displayText": "konvergente"
+      },
+      {
+        "fileName": "Exponentialreihe",
+        "link": "Konvergenz + Divergenz",
+        "relativePath": "AfI/Exponentialreihe.md",
+        "displayText": "konvergiert"
+      },
+      {
+        "fileName": "Cauchy-Folge",
+        "link": "Konvergenz + Divergenz",
+        "relativePath": "AfI/Cauchy-Folge.md",
+        "displayText": "konvergent"
+      }
+    ]
+  },
+  {
+    "fileName": "Induktion",
+    "relativePath": "AfI/Induktion.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 20
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Allgemeines Vorgehen",
+        "level": 1
+      },
+      {
+        "heading": "Beispiel",
+        "level": 2
+      },
+      {
+        "heading": "Satz",
+        "level": 3
+      },
+      {
+        "heading": "Beweis (durch Induktion)",
+        "level": 3
+      },
+      {
+        "heading": "Induktionsverankerung",
+        "level": 4
+      },
+      {
+        "heading": "Induktionsschritt",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Beweisverfahren",
+        "relativePath": "AfI/Beweisverfahren.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Natürliche Zahlen",
+        "link": "Induktion",
+        "relativePath": "AfI/Natürliche Zahlen.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Grenzwerte von Funktionen",
+    "relativePath": "AfI/Grenzwerte von Funktionen.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 40
+        }
+      }
+    },
+    "aliases": [
+      "Grenzwert"
+    ],
+    "headings": [
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Uneigentlicher Grenzwert",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Folgen",
+        "relativePath": "AfI/Folgen.md"
+      },
+      {
+        "link": "Abbildungen",
+        "displayText": "Funktion",
+        "relativePath": "AfI/Abbildungen.md"
+      },
+      {
+        "link": "Unbestimmt divergent",
+        "displayText": "bestimmte Divergenz",
+        "relativePath": "AfI/Konvergenz + Divergenz.md"
+      },
+      {
+        "link": "Konvergenz + Divergenz",
+        "displayText": "divergiert",
+        "relativePath": "AfI/Konvergenz + Divergenz.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Gauß'sche Zahlenebene",
+    "relativePath": "AfI/Gauß'sche Zahlenebene.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 31
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Definition",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "komplexe Zahlen",
+        "displayText": "komplexen",
+        "relativePath": "AfI/komplexe Zahlen.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Folgen",
+    "relativePath": "AfI/Folgen.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 36
+        }
+      }
+    },
+    "aliases": [
+      "Folge"
+    ],
+    "headings": [
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Wachstum",
+        "level": 3
+      },
+      {
+        "heading": "Beispiele",
+        "level": 2
+      },
+      {
+        "heading": "Rechnen mit Folgen",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Abbildungen",
+        "displayText": "Abbildung",
+        "relativePath": "AfI/Abbildungen.md"
+      },
+      {
+        "link": "Konvergenz + Divergenz",
+        "displayText": "konvergieren/divergieren",
+        "relativePath": "AfI/Konvergenz + Divergenz.md"
+      },
+      {
+        "link": "Schranken",
+        "displayText": "beschränkt",
+        "relativePath": "AfI/Schranken.md"
+      },
+      {
+        "link": "Konvergenz + Divergenz",
+        "displayText": "konvergent",
+        "relativePath": "AfI/Konvergenz + Divergenz.md"
+      },
+      {
+        "link": "Schranken",
+        "displayText": "beschränkt",
+        "relativePath": "AfI/Schranken.md"
+      },
+      {
+        "link": "Schranken",
+        "displayText": "beschränkt",
+        "relativePath": "AfI/Schranken.md"
+      },
+      {
+        "link": "Konvergenz + Divergenz",
+        "displayText": "konvergent",
+        "relativePath": "AfI/Konvergenz + Divergenz.md"
+      },
+      {
+        "link": "Konvergenz + Divergenz",
+        "displayText": "konvergente",
+        "relativePath": "AfI/Konvergenz + Divergenz.md"
+      },
+      {
+        "link": "Folgen",
+        "relativePath": "AfI/Folgen.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "e-Funktion",
+        "link": "Folgen#Wachstum",
+        "relativePath": "AfI/e-Funktion.md",
+        "cleanLink": "Folgen",
+        "displayText": "wächst monoton"
+      },
+      {
+        "fileName": "Reihen",
+        "link": "Folgen",
+        "relativePath": "AfI/Reihen.md",
+        "displayText": "Folge"
+      },
+      {
+        "fileName": "Grenzwerte von Funktionen",
+        "link": "Folgen",
+        "relativePath": "AfI/Grenzwerte von Funktionen.md"
+      },
+      {
+        "fileName": "Cauchy-Folge",
+        "link": "Folgen",
+        "relativePath": "AfI/Cauchy-Folge.md",
+        "displayText": "Folge"
+      }
+    ]
+  },
+  {
+    "fileName": "Exponentialreihe",
+    "relativePath": "AfI/Exponentialreihe.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 31
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Definition",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Reihen",
+        "displayText": "Reihe",
+        "relativePath": "AfI/Reihen.md"
+      },
+      {
+        "link": "Reihen",
+        "displayText": "Reihe",
+        "relativePath": "AfI/Reihen.md"
+      },
+      {
+        "link": "Konvergenz + Divergenz",
+        "displayText": "konvergiert",
+        "relativePath": "AfI/Konvergenz + Divergenz.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "e-Funktion",
+        "link": "Exponentialreihe",
+        "relativePath": "AfI/e-Funktion.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Dichte",
+    "relativePath": "AfI/Dichte.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 31
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Satz",
+        "level": 2
+      },
+      {
+        "heading": "Bemerkungen",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Schranken",
+        "relativePath": "AfI/Schranken.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Schranken",
+        "link": "Dichte",
+        "relativePath": "AfI/Schranken.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Cauchy-Folge",
+    "relativePath": "AfI/Cauchy-Folge.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 44
+        }
+      }
+    },
+    "aliases": [
+      "Cauchy-Folgen"
+    ],
+    "headings": [
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Beispiel",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Folgen",
+        "displayText": "Folge",
+        "relativePath": "AfI/Folgen.md"
+      },
+      {
+        "link": "Konvergenz + Divergenz",
+        "displayText": "konvergent",
+        "relativePath": "AfI/Konvergenz + Divergenz.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Konvergenz + Divergenz",
+        "link": "Cauchy-Folge",
+        "relativePath": "AfI/Konvergenz + Divergenz.md",
+        "displayText": "Cauchy-Folgen"
+      }
+    ]
+  },
+  {
+    "fileName": "Beweisverfahren",
+    "relativePath": "AfI/Beweisverfahren.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 31
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Direkter Beweis",
+        "level": 1
+      },
+      {
+        "heading": "Satz",
+        "level": 3
+      },
+      {
+        "heading": "Beweis",
+        "level": 3
+      },
+      {
+        "heading": "Indirekter Beweis",
+        "level": 1
+      },
+      {
+        "heading": "Satz",
+        "level": 3
+      },
+      {
+        "heading": "Beweis",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Induktion",
+        "link": "Beweisverfahren",
+        "relativePath": "AfI/Induktion.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Abzählbarkeit",
+    "relativePath": "AfI/Abzählbarkeit.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 31
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Beispiele",
+        "level": 2
+      },
+      {
+        "heading": "abzählbar",
+        "level": 3
+      },
+      {
+        "heading": "überabzählbar",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Mengen#Mächtigkeit",
+        "cleanLink": "Mengen",
+        "displayText": "Mächtigkeit",
+        "relativePath": "AfI/Mengen.md"
+      },
+      {
+        "link": "Abbildungen#Bijektion",
+        "cleanLink": "Abbildungen",
+        "displayText": "bijektive Abbildung",
+        "relativePath": "AfI/Abbildungen.md"
+      },
+      {
+        "link": "Gödelnummern",
+        "relativePath": "BuK/Gödelnummern.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Mengen",
+        "link": "Abzählbarkeit",
+        "relativePath": "AfI/Mengen.md",
+        "displayText": "Überabzählbar"
+      }
+    ]
+  },
+  {
+    "fileName": "Abbildungen",
+    "relativePath": "AfI/Abbildungen.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 52
+        }
+      }
+    },
+    "aliases": [
+      "Abbildung",
+      "Funktion"
+    ],
+    "headings": [
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Bereiche",
+        "level": 2
+      },
+      {
+        "heading": "Bild/Urbild",
+        "level": 2
+      },
+      {
+        "heading": "Spezielle Abbildungen",
+        "level": 2
+      },
+      {
+        "heading": "Identität",
+        "level": 3
+      },
+      {
+        "heading": "konstante Funktion",
+        "level": 3
+      },
+      {
+        "heading": "Spezielle Eigenschaften",
+        "level": 2
+      },
+      {
+        "heading": "Injektion",
+        "level": 3
+      },
+      {
+        "heading": "Surjektion",
+        "level": 3
+      },
+      {
+        "heading": "Bijektion",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Stetigkeit",
+        "link": "Abbildungen",
+        "relativePath": "AfI/Stetigkeit.md",
+        "displayText": "Funktion"
+      },
+      {
+        "fileName": "Relation",
+        "link": "Abbildungen",
+        "relativePath": "AfI/Relation.md",
+        "displayText": "Abbildung"
+      },
+      {
+        "fileName": "Grenzwerte von Funktionen",
+        "link": "Abbildungen",
+        "relativePath": "AfI/Grenzwerte von Funktionen.md",
+        "displayText": "Funktion"
+      },
+      {
+        "fileName": "Folgen",
+        "link": "Abbildungen",
+        "relativePath": "AfI/Folgen.md",
+        "displayText": "Abbildung"
+      },
+      {
+        "fileName": "Abzählbarkeit",
+        "link": "Abbildungen#Bijektion",
+        "relativePath": "AfI/Abzählbarkeit.md",
+        "cleanLink": "Abbildungen",
+        "displayText": "bijektive Abbildung"
+      }
+    ]
+  }
+]

@@ -1,0 +1,167 @@
+{
+  "folders": [
+    {
+      "name": "",
+      "relativePath": "/"
+    },
+    {
+      "name": "AfI",
+      "relativePath": "AfI"
+    },
+    {
+      "name": "DatKom",
+      "relativePath": "DatKom"
+    },
+    {
+      "name": "BuK",
+      "relativePath": "BuK"
+    },
+    {
+      "name": "DSAL",
+      "relativePath": "DSAL"
+    },
+    {
+      "name": "FoSAP",
+      "relativePath": "FoSAP"
+    },
+    {
+      "name": "res",
+      "relativePath": "res"
+    },
+    {
+      "name": "temp",
+      "relativePath": "temp"
+    },
+    {
+      "name": "LA",
+      "relativePath": "LA"
+    }
+  ],
+  "nonMdFiles": [
+    {
+      "name": "metadata.json",
+      "basename": "metadata",
+      "relativePath": "metadata.json"
+    },
+    {
+      "name": "abb_bereiche.png",
+      "basename": "abb_bereiche",
+      "relativePath": "res/abb_bereiche.png"
+    },
+    {
+      "name": "abbildung-prop.png",
+      "basename": "abbildung-prop",
+      "relativePath": "res/abbildung-prop.png"
+    },
+    {
+      "name": "adjacency.png",
+      "basename": "adjacency",
+      "relativePath": "res/adjacency.png"
+    },
+    {
+      "name": "adjacencylist.png",
+      "basename": "adjacencylist",
+      "relativePath": "res/adjacencylist.png"
+    },
+    {
+      "name": "arraytree.png",
+      "basename": "arraytree",
+      "relativePath": "res/arraytree.png"
+    },
+    {
+      "name": "dfa.png",
+      "basename": "dfa",
+      "relativePath": "res/dfa.png"
+    },
+    {
+      "name": "doublylinkedlist.png",
+      "basename": "doublylinkedlist",
+      "relativePath": "res/doublylinkedlist.png"
+    },
+    {
+      "name": "erreichbarkeitsmenge.png",
+      "basename": "erreichbarkeitsmenge",
+      "relativePath": "res/erreichbarkeitsmenge.png"
+    },
+    {
+      "name": "isomorph.png",
+      "basename": "isomorph",
+      "relativePath": "res/isomorph.png"
+    },
+    {
+      "name": "k-band-tm.png",
+      "basename": "k-band-tm",
+      "relativePath": "res/k-band-tm.png"
+    },
+    {
+      "name": "kd-baum.png",
+      "basename": "kd-baum",
+      "relativePath": "res/kd-baum.png"
+    },
+    {
+      "name": "nfa.png",
+      "basename": "nfa",
+      "relativePath": "res/nfa.png"
+    },
+    {
+      "name": "ntm.png",
+      "basename": "ntm",
+      "relativePath": "res/ntm.png"
+    },
+    {
+      "name": "ntm_tree.png",
+      "basename": "ntm_tree",
+      "relativePath": "res/ntm_tree.png"
+    },
+    {
+      "name": "planargraph.png",
+      "basename": "planargraph",
+      "relativePath": "res/planargraph.png"
+    },
+    {
+      "name": "potenzmengenautomat.png",
+      "basename": "potenzmengenautomat",
+      "relativePath": "res/potenzmengenautomat.png"
+    },
+    {
+      "name": "produktautomat.png",
+      "basename": "produktautomat",
+      "relativePath": "res/produktautomat.png"
+    },
+    {
+      "name": "queuearray.png",
+      "basename": "queuearray",
+      "relativePath": "res/queuearray.png"
+    },
+    {
+      "name": "ram.png",
+      "basename": "ram",
+      "relativePath": "res/ram.png"
+    },
+    {
+      "name": "relation.png",
+      "basename": "relation",
+      "relativePath": "res/relation.png"
+    },
+    {
+      "name": "singlylinkedlist.png",
+      "basename": "singlylinkedlist",
+      "relativePath": "res/singlylinkedlist.png"
+    },
+    {
+      "name": "stackarray.png",
+      "basename": "stackarray",
+      "relativePath": "res/stackarray.png"
+    },
+    {
+      "name": "tm.png",
+      "basename": "tm",
+      "relativePath": "res/tm.png"
+    },
+    {
+      "name": "u-tm.png",
+      "basename": "u-tm",
+      "relativePath": "res/u-tm.png"
+    }
+  ]
+}

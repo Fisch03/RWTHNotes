@@ -1,0 +1,11 @@
+{
+  "tagPath": "",
+  "metadataPath": "/home/fisch03/Documents/RWTH/RWTHNotes/RWTHNotes/metadata.json",
+  "allExceptMdPath": "",
+  "tagFile": "tags.json",
+  "metadataFile": "metadata.json",
+  "allExceptMdFile": "allExceptMd.json",
+  "writingFrequency": "0",
+  "writeFilesOnLaunch": true,
+  "consoleLog": true
+}

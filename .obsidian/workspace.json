@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "c27df4790287e9b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7a9ea82a9b79338",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5df7f6c4a196e07",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "35c6f2430edcd363",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AfI/Differentialrechnung.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1,
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e2b16693fa216da",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 256.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "70006ba2936453db",
+    "type": "split",
+    "children": [
+      {
+        "id": "12ce7c70bf7b248c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "527680bd478b5dc5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AfI/Differentialrechnung.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "active": "35c6f2430edcd363",
+  "lastOpenFiles": [
+    "AfI/Differentialrechnung.md",
+    "AfI/Stetigkeit.md",
+    "AfI/Abbildungen.md",
+    "BuK/Nichtdeterministische Turing Machine.md",
+    "BuK/Turing Machine.md",
+    "DatKom/Sicherungsschicht.md",
+    "BuK/Entscheidbarkeit.md",
+    "AfI/Induktion.md",
+    "AfI/Beweisverfahren.md",
+    "DSAL/Entwurfsparadigmen.md"
+  ]
+}
