@@ -20,4 +20,4 @@ DFAbb
 - Es genügt ein erfolgreicher Lauf damit der Automat das Wort akzeptiert
 
 ## Beispiel
-![[res/nfa.png]]
+![[../res/nfa.png]]

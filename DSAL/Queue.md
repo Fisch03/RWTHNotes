@@ -19,4 +19,4 @@ tags:
 - Keine Garbage-Collection benötigt
 - Allerdings: maximale Länge
 
-![[queuearray.png]]
+![[../res/queuearray.png]]

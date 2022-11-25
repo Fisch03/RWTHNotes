@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSAL/Bäume.md",
+                "file": "BuK/Registermaschinen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -59,7 +59,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSAL/Bäume.md",
+                "file": "BuK/Registermaschinen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,15 +79,15 @@
   },
   "active": "35c6f2430edcd363",
   "lastOpenFiles": [
-    "DSAL/Bäume.md",
-    "DSAL/Stack.md",
-    "DSAL/Doppelt verkettete Liste.md",
-    "DSAL/Graphen.md",
-    "BuK/k-Band-TM.md",
-    "BuK/Registermaschinen.md",
     "BuK/Nichtdeterministische Turing Machine.md",
-    "FoSAP/Potenzmengenautomat.md",
-    "BuK/Turing Machine.md",
-    "FoSAP/DFA.md"
+    "DSAL/Graphen.md",
+    "DSAL/Bäume.md",
+    "DSAL/Queue.md",
+    "DSAL/Doppelt verkettete Liste.md",
+    "DSAL/Einfach verkettete Liste.md",
+    "FoSAP/NFA.md",
+    "AfI/Relation.md",
+    "AfI/Abbildungen.md",
+    "FoSAP/Potenzmengenautomat.md"
   ]
 }

@@ -5,4 +5,4 @@ tags:
 - DSAL
 ---
 # Einfach verkettete [[List|Liste]] (SinglyLinkedList)
-![[singlylinkedlist.png]]
+![[../res/singlylinkedlist.png]]

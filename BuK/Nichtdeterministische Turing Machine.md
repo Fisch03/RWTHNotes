@@ -10,8 +10,8 @@ Sie akzeptiert eine Eingabe $x\in\Sigma^*$ solange es mindestens einen Rechenwg 
 Die Laufzeit von einer NTM $M$ auf einer Eingabe $x\in L(M)$ ist definiert als 
 $T_M(x):=$ Länge des kürzesten akzeptierenden Rechenweges von $M$ auf $x$
 
-![[res/ntm.png]]
+![[../res/ntm.png]]
 
 
 ## Berechnungsbaum
-![[/res/ntm_tree.png]]
+![[../res/ntm_tree.png]]

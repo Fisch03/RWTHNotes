@@ -16,7 +16,7 @@ tags:
 
 - Zwei DFAs lassen sich zu einem [[Produktautomat]] kombinieren
 ## Beispiel
-![[res/dfa.png]]
+![[../res/dfa.png]]
 
 ## Lauf
 "Berechnung" eines DFA mit einem Wort

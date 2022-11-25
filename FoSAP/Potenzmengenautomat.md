@@ -12,7 +12,7 @@ Der Potenzmengenautomat von $A$
 #TODO
 
 ## Beispiel
-![[potenzmengenautomat.png]]
+![[../res/potenzmengenautomat.png]]
 >[!WARNING] Achtung
 > Die Zustände $\{\varnothing\}$, $\{q_{1}\}$, $\{q_{2}\}$, $\{q_{1},q_{2}\}$ und $\{q_{0},q_{2}\}$  sind unerreichbar
 
