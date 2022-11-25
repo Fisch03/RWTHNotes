@@ -12,12 +12,12 @@ tags:
 | Vollständig             | jeder Knoten ist mit jedem Verbunden ($m=n\times(n-1)/2$)                                   |
 | Isomorph                | Nach Vertauschung (Permutation) gleicht der Graph einem anderen<br>  ![[isomorph.png\|250]] |
 ## Adjazenzmatrix
-![[adjacency.png|500]]
+![[res/adjacency.png|500]]
 Speicherverbrauch: $n^2$ bit
 
 ## Adjazenzliste
-![[adjacencylist.png|500]] 
+![[res/adjacencylist.png|500]] 
 Speicherverbrauch: $n \times k \times b = n \times k \times log(n)$ bit 
 
 ## Planarer Graph
-![[planargraph.png |500]]  
+![[res/planargraph.png |500]]  

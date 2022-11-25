@@ -19,7 +19,7 @@ zum Beispiel:
 - $A$ ist der *Definitionsbereich* und $B$ der *Bildbereich* der Abbildung.
 - $W_f:=\{y\in B | \exists x\in A \text{ mit } f(x)=y\} =: Im(f)$  ist der *Wertebereich* der Abbildung ("Image")
 - $G_f:=\lbrace(x,f(x))|x\in A\rbrace$ ist der *Graph* der Abbildung
-![[abb_bereiche.png]]
+![[res/abb_bereiche.png]]
 
 ## Bild/Urbild
 - für $f:A\to B$ und $M\subset A$ heißt die Menge $f(M):= \{y\in B | \exists x\in M \text{ mit } f(x)=y\}$ das *Bild* von $M$
@@ -34,7 +34,7 @@ Die Identität bildet jeden Wert auf sich selber ab: $f: A\to A, x\mapsto y = f(
 Die konstante Funktion bildet jeden Wert auf eine Konstante ab: für $c\in B$ definieren wir $f: A\to B, x\mapsto y=f(x)=c$
 
 ## Spezielle Eigenschaften
-![[abbildung-prop.png]]
+![[res/abbildung-prop.png]]
 ### Injektion
 $f$ heißt *injektiv*, wenn für alle $a_1,a_2\in A$ aus $f(a_1)=f(a_2)$ stets $a_1=a_2$ folgt, d.h. jedes $y$ besitzt maximal ein $x$ 
 

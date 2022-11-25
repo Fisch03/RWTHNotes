@@ -3,7 +3,7 @@ aliases: [Registermaschine]
 tags:
 - BuK
 ---
-![[ram.png]]
+![[res/ram.png]]
 
 ## Befehle
 | Befehl    | Erklärung                   | b += 1? |

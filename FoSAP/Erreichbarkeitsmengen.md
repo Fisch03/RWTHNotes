@@ -9,7 +9,7 @@ Sei $A=(Q,\Sigma,\Delta,q_0,F)$ ein [[NFA]]
 #TODO
 
 ## Beispiel
-![[erreichbarkeitsmenge.png]]
+![[res/erreichbarkeitsmenge.png]]
 
 ## Analyse
 Bei  guter Implementierung: $O(n|\Delta|)$

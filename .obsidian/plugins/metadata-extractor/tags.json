@@ -16,10 +16,10 @@
     "tag": "fosap",
     "tagCount": 10,
     "relativePaths": [
-      "FoSAP/Potenzmengenautomat.md",
-      "FoSAP/Produktautomat.md",
       "FoSAP/Sprachen.md",
       "FoSAP/Reguläre Ausdrücke.md",
+      "FoSAP/Produktautomat.md",
+      "FoSAP/Potenzmengenautomat.md",
       "FoSAP/NFA.md",
       "FoSAP/Erreichbarkeitsmengen.md",
       "FoSAP/Epsilon-NFA.md",
@@ -37,6 +37,15 @@
     ]
   },
   {
+    "tag": "datkom",
+    "tagCount": 3,
+    "relativePaths": [
+      "DatKom/Sicherungsschicht.md",
+      "DatKom/ISO OSI Referenzmodell.md",
+      "DatKom/Bitübertragungsschicht.md"
+    ]
+  },
+  {
     "tag": "dsal",
     "tagCount": 14,
     "relativePaths": [
@@ -44,16 +53,16 @@
       "DSAL/Sortierverfahren.md",
       "DSAL/Selection Sort.md",
       "DSAL/Queue.md",
-      "DSAL/Entwurfsparadigmen.md",
       "DSAL/List.md",
       "DSAL/Insertion Sort.md",
       "DSAL/Heap.md",
       "DSAL/Graphen.md",
-      "DSAL/Bubble Sort.md",
+      "DSAL/Entwurfsparadigmen.md",
       "DSAL/Einfach verkettete Liste.md",
       "DSAL/Doppelt verkettete Liste.md",
       "DSAL/Datentypen.md",
-      "DSAL/Bäume.md"
+      "DSAL/Bäume.md",
+      "DSAL/Bubble Sort.md"
     ]
   },
   {
@@ -86,27 +95,18 @@
       "BuK/Rekursive Aufzählbarkeit.md",
       "BuK/Registermaschinen.md",
       "BuK/Postsches Korrespondenzproblem.md",
-      "BuK/LOOP-Programme.md",
-      "BuK/Entscheidungsprobleme.md",
       "BuK/Polynomialzeitalgorithmus.md",
       "BuK/Nichtdeterministische Turing Machine.md",
+      "BuK/LOOP-Programme.md",
       "BuK/Gödelnummern.md",
+      "BuK/Entscheidungsprobleme.md",
       "BuK/Entscheidbarkeit.md",
       "BuK/Drucker.md"
     ]
   },
   {
-    "tag": "datkom",
-    "tagCount": 3,
-    "relativePaths": [
-      "DatKom/Sicherungsschicht.md",
-      "DatKom/ISO OSI Referenzmodell.md",
-      "DatKom/Bitübertragungsschicht.md"
-    ]
-  },
-  {
     "tag": "afi",
-    "tagCount": 25,
+    "tagCount": 26,
     "relativePaths": [
       "AfI/reelle Zahlen.md",
       "AfI/komplexe Zahlen.md",
@@ -128,6 +128,7 @@
       "AfI/Gauß'sche Zahlenebene.md",
       "AfI/Folgen.md",
       "AfI/Exponentialreihe.md",
+      "AfI/Differentialrechnung.md",
       "AfI/Dichte.md",
       "AfI/Cauchy-Folge.md",
       "AfI/Beweisverfahren.md",

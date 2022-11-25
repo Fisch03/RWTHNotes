@@ -46,7 +46,7 @@ Löschung nicht leicht möglich, daher:
 
 ## Speicherung in Arrays
 Geht davon aus dass der Baum vollständig ist
-![[arraytree.png]]
+![[res/arraytree.png]]
 - Rot: Wurzel
 - Orange: Nachfolger der Wurzel
 - usw.
@@ -59,7 +59,7 @@ Geht davon aus dass der Baum vollständig ist
 - LRW: *Postfix*
 
 ## kD-Bäume
-![[kd-baum.png]]
+![[res/kd-baum.png]]
 Binärbaum der Daten mit mehreren Schlüsseln darstellt
 
 Im Bild: Immer abwechselnd Unterteilung X/Y, Aufteilung so dass immer gleich viele Elemente auf jeder Seite sind

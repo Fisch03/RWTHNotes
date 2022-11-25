@@ -1,5 +1,33 @@
 [
   {
+    "fileName": "Topic Template",
+    "relativePath": "temp/Topic Template.md",
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 28
+        }
+      }
+    }
+  },
+  {
+    "fileName": "README",
+    "relativePath": "README.md",
+    "headings": [
+      {
+        "heading": "RWTHNotes",
+        "level": 1
+      }
+    ]
+  },
+  {
     "fileName": "Vektorräume",
     "relativePath": "LA/Vektorräume.md",
     "tags": [
@@ -472,115 +500,6 @@
     ]
   },
   {
-    "fileName": "Topic Template",
-    "relativePath": "temp/Topic Template.md",
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 4,
-          "col": 3,
-          "offset": 28
-        }
-      }
-    }
-  },
-  {
-    "fileName": "Potenzmengenautomat",
-    "relativePath": "FoSAP/Potenzmengenautomat.md",
-    "tags": [
-      "fosap",
-      "todo"
-    ],
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 3,
-          "col": 3,
-          "offset": 21
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Potenzmengenautomat",
-        "level": 1
-      },
-      {
-        "heading": "Beispiel",
-        "level": 2
-      },
-      {
-        "heading": "Reduzierter PMA",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "NFA",
-        "relativePath": "FoSAP/NFA.md"
-      },
-      {
-        "link": "DFA",
-        "relativePath": "FoSAP/DFA.md"
-      },
-      {
-        "link": "NFA",
-        "relativePath": "FoSAP/NFA.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Automaten",
-        "link": "Potenzmengenautomat",
-        "relativePath": "FoSAP/Automaten.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Produktautomat",
-    "relativePath": "FoSAP/Produktautomat.md",
-    "tags": [
-      "fosap"
-    ],
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 3,
-          "col": 3,
-          "offset": 21
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Produktautomat",
-        "level": 1
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "DFA",
-        "link": "Produktautomat",
-        "relativePath": "FoSAP/DFA.md"
-      }
-    ]
-  },
-  {
     "fileName": "Sprachen",
     "relativePath": "FoSAP/Sprachen.md",
     "tags": [
@@ -741,6 +660,97 @@
         "link": "Reguläre Ausdrücke",
         "relativePath": "FoSAP/Sprachen.md",
         "displayText": "Regulären Ausdruck"
+      }
+    ]
+  },
+  {
+    "fileName": "Produktautomat",
+    "relativePath": "FoSAP/Produktautomat.md",
+    "tags": [
+      "fosap"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 21
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Produktautomat",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "DFA",
+        "link": "Produktautomat",
+        "relativePath": "FoSAP/DFA.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Potenzmengenautomat",
+    "relativePath": "FoSAP/Potenzmengenautomat.md",
+    "tags": [
+      "fosap",
+      "todo"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 21
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Potenzmengenautomat",
+        "level": 1
+      },
+      {
+        "heading": "Beispiel",
+        "level": 2
+      },
+      {
+        "heading": "Reduzierter PMA",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "NFA",
+        "relativePath": "FoSAP/NFA.md"
+      },
+      {
+        "link": "DFA",
+        "relativePath": "FoSAP/DFA.md"
+      },
+      {
+        "link": "NFA",
+        "relativePath": "FoSAP/NFA.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Automaten",
+        "link": "Potenzmengenautomat",
+        "relativePath": "FoSAP/Automaten.md"
       }
     ]
   },
@@ -1135,6 +1145,137 @@
     ]
   },
   {
+    "fileName": "Sicherungsschicht",
+    "relativePath": "DatKom/Sicherungsschicht.md",
+    "tags": [
+      "datkom"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "aliases": [
+      "Sicherung",
+      "Schicht 2"
+    ],
+    "backlinks": [
+      {
+        "fileName": "ISO OSI Referenzmodell",
+        "link": "Sicherungsschicht",
+        "relativePath": "DatKom/ISO OSI Referenzmodell.md",
+        "displayText": "Sicherung"
+      }
+    ]
+  },
+  {
+    "fileName": "ISO OSI Referenzmodell",
+    "relativePath": "DatKom/ISO OSI Referenzmodell.md",
+    "tags": [
+      "datkom"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 56
+        }
+      }
+    },
+    "aliases": [
+      "ISO/OSI-Referenzmodell"
+    ],
+    "headings": [
+      {
+        "heading": "Schichten",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Sicherungsschicht",
+        "displayText": "Sicherung",
+        "relativePath": "DatKom/Sicherungsschicht.md"
+      },
+      {
+        "link": "Bitübertragungsschicht",
+        "displayText": "Bitübertragung",
+        "relativePath": "DatKom/Bitübertragungsschicht.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Bitübertragungsschicht",
+    "relativePath": "DatKom/Bitübertragungsschicht.md",
+    "tags": [
+      "datkom"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 75
+        }
+      }
+    },
+    "aliases": [
+      "Physical Layer",
+      "Bitübertragung",
+      "Schicht 1"
+    ],
+    "headings": [
+      {
+        "heading": "Arten der Bitübertragung",
+        "level": 2
+      },
+      {
+        "heading": "Kabelgebunden",
+        "level": 3
+      },
+      {
+        "heading": "Beispiele",
+        "level": 4
+      },
+      {
+        "heading": "Drahtlos",
+        "level": 3
+      },
+      {
+        "heading": "Beispiele",
+        "level": 4
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "ISO OSI Referenzmodell",
+        "link": "Bitübertragungsschicht",
+        "relativePath": "DatKom/ISO OSI Referenzmodell.md",
+        "displayText": "Bitübertragung"
+      }
+    ]
+  },
+  {
     "fileName": "Stack",
     "relativePath": "DSAL/Stack.md",
     "tags": [
@@ -1302,33 +1443,6 @@
         "fileName": "Datentypen",
         "link": "Queue",
         "relativePath": "DSAL/Datentypen.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Entwurfsparadigmen",
-    "relativePath": "DSAL/Entwurfsparadigmen.md",
-    "tags": [
-      "dsal"
-    ],
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 4,
-          "col": 3,
-          "offset": 32
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Entwurfsparadigmen",
-        "level": 1
       }
     ]
   },
@@ -1533,8 +1647,8 @@
     ]
   },
   {
-    "fileName": "Bubble Sort",
-    "relativePath": "DSAL/Bubble Sort.md",
+    "fileName": "Entwurfsparadigmen",
+    "relativePath": "DSAL/Entwurfsparadigmen.md",
     "tags": [
       "dsal"
     ],
@@ -1554,15 +1668,8 @@
     },
     "headings": [
       {
-        "heading": "Bubble Sort",
+        "heading": "Entwurfsparadigmen",
         "level": 1
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Sortierverfahren",
-        "link": "Bubble Sort",
-        "relativePath": "DSAL/Sortierverfahren.md"
       }
     ]
   },
@@ -1795,6 +1902,40 @@
     ]
   },
   {
+    "fileName": "Bubble Sort",
+    "relativePath": "DSAL/Bubble Sort.md",
+    "tags": [
+      "dsal"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 32
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Bubble Sort",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sortierverfahren",
+        "link": "Bubble Sort",
+        "relativePath": "DSAL/Sortierverfahren.md"
+      }
+    ]
+  },
+  {
     "fileName": "universelle TM",
     "relativePath": "BuK/universelle TM.md",
     "tags": [
@@ -1958,12 +2099,6 @@
         "relativePath": "BuK/Rekursive Aufzählbarkeit.md"
       },
       {
-        "fileName": "Entscheidungsprobleme",
-        "link": "Turing Machine",
-        "relativePath": "BuK/Entscheidungsprobleme.md",
-        "displayText": "Turing Maschinen"
-      },
-      {
         "fileName": "Nichtdeterministische Turing Machine",
         "link": "Turing Machine",
         "relativePath": "BuK/Nichtdeterministische Turing Machine.md"
@@ -1972,6 +2107,12 @@
         "fileName": "Gödelnummern",
         "link": "Turing Machine",
         "relativePath": "BuK/Gödelnummern.md"
+      },
+      {
+        "fileName": "Entscheidungsprobleme",
+        "link": "Turing Machine",
+        "relativePath": "BuK/Entscheidungsprobleme.md",
+        "displayText": "Turing Maschinen"
       },
       {
         "fileName": "Entscheidbarkeit",
@@ -2126,111 +2267,6 @@
     ]
   },
   {
-    "fileName": "LOOP-Programme",
-    "relativePath": "BuK/LOOP-Programme.md",
-    "tags": [
-      "buk"
-    ],
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 4,
-          "col": 3,
-          "offset": 35
-        }
-      }
-    },
-    "aliases": [
-      "LOOP"
-    ],
-    "headings": [
-      {
-        "heading": "Eigenschaften",
-        "level": 2
-      },
-      {
-        "heading": "Elemente eines LOOP-Programms",
-        "level": 2
-      },
-      {
-        "heading": "Hintereinanderausführung",
-        "level": 3
-      },
-      {
-        "heading": "Loop-Konstrukt",
-        "level": 3
-      },
-      {
-        "heading": "Beispielprogramme",
-        "level": 2
-      },
-      {
-        "heading": "Addition",
-        "level": 4
-      },
-      {
-        "heading": "Multiplikation",
-        "level": 4
-      }
-    ]
-  },
-  {
-    "fileName": "Entscheidungsprobleme",
-    "relativePath": "BuK/Entscheidungsprobleme.md",
-    "tags": [
-      "buk"
-    ],
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 4,
-          "col": 3,
-          "offset": 31
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Klasse P (Polynomiell)",
-        "level": 2
-      },
-      {
-        "heading": "Klasse NP (Nichtdeterministisch Polynomiell)",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "Polynomialzeitalgorithmus",
-        "relativePath": "BuK/Polynomialzeitalgorithmus.md"
-      },
-      {
-        "link": "Registermaschinen",
-        "relativePath": "BuK/Registermaschinen.md"
-      },
-      {
-        "link": "Turing Machine",
-        "displayText": "Turing Maschinen",
-        "relativePath": "BuK/Turing Machine.md"
-      },
-      {
-        "link": "Nichtdeterministische Turing Machine",
-        "displayText": "NTM",
-        "relativePath": "BuK/Nichtdeterministische Turing Machine.md"
-      }
-    ]
-  },
-  {
     "fileName": "Polynomialzeitalgorithmus",
     "relativePath": "BuK/Polynomialzeitalgorithmus.md",
     "tags": [
@@ -2307,6 +2343,60 @@
     ]
   },
   {
+    "fileName": "LOOP-Programme",
+    "relativePath": "BuK/LOOP-Programme.md",
+    "tags": [
+      "buk"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 35
+        }
+      }
+    },
+    "aliases": [
+      "LOOP"
+    ],
+    "headings": [
+      {
+        "heading": "Eigenschaften",
+        "level": 2
+      },
+      {
+        "heading": "Elemente eines LOOP-Programms",
+        "level": 2
+      },
+      {
+        "heading": "Hintereinanderausführung",
+        "level": 3
+      },
+      {
+        "heading": "Loop-Konstrukt",
+        "level": 3
+      },
+      {
+        "heading": "Beispielprogramme",
+        "level": 2
+      },
+      {
+        "heading": "Addition",
+        "level": 4
+      },
+      {
+        "heading": "Multiplikation",
+        "level": 4
+      }
+    ]
+  },
+  {
     "fileName": "Gödelnummern",
     "relativePath": "BuK/Gödelnummern.md",
     "tags": [
@@ -2345,6 +2435,57 @@
         "fileName": "Abzählbarkeit",
         "link": "Gödelnummern",
         "relativePath": "AfI/Abzählbarkeit.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Entscheidungsprobleme",
+    "relativePath": "BuK/Entscheidungsprobleme.md",
+    "tags": [
+      "buk"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 31
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Klasse P (Polynomiell)",
+        "level": 2
+      },
+      {
+        "heading": "Klasse NP (Nichtdeterministisch Polynomiell)",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Polynomialzeitalgorithmus",
+        "relativePath": "BuK/Polynomialzeitalgorithmus.md"
+      },
+      {
+        "link": "Registermaschinen",
+        "relativePath": "BuK/Registermaschinen.md"
+      },
+      {
+        "link": "Turing Machine",
+        "displayText": "Turing Maschinen",
+        "relativePath": "BuK/Turing Machine.md"
+      },
+      {
+        "link": "Nichtdeterministische Turing Machine",
+        "displayText": "NTM",
+        "relativePath": "BuK/Nichtdeterministische Turing Machine.md"
       }
     ]
   },
@@ -2452,137 +2593,6 @@
         "fileName": "Rekursive Aufzählbarkeit",
         "link": "Drucker",
         "relativePath": "BuK/Rekursive Aufzählbarkeit.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Sicherungsschicht",
-    "relativePath": "DatKom/Sicherungsschicht.md",
-    "tags": [
-      "datkom"
-    ],
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 4,
-          "col": 3,
-          "offset": 54
-        }
-      }
-    },
-    "aliases": [
-      "Sicherung",
-      "Schicht 2"
-    ],
-    "backlinks": [
-      {
-        "fileName": "ISO OSI Referenzmodell",
-        "link": "Sicherungsschicht",
-        "relativePath": "DatKom/ISO OSI Referenzmodell.md",
-        "displayText": "Sicherung"
-      }
-    ]
-  },
-  {
-    "fileName": "ISO OSI Referenzmodell",
-    "relativePath": "DatKom/ISO OSI Referenzmodell.md",
-    "tags": [
-      "datkom"
-    ],
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 4,
-          "col": 3,
-          "offset": 56
-        }
-      }
-    },
-    "aliases": [
-      "ISO/OSI-Referenzmodell"
-    ],
-    "headings": [
-      {
-        "heading": "Schichten",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "Sicherungsschicht",
-        "displayText": "Sicherung",
-        "relativePath": "DatKom/Sicherungsschicht.md"
-      },
-      {
-        "link": "Bitübertragungsschicht",
-        "displayText": "Bitübertragung",
-        "relativePath": "DatKom/Bitübertragungsschicht.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Bitübertragungsschicht",
-    "relativePath": "DatKom/Bitübertragungsschicht.md",
-    "tags": [
-      "datkom"
-    ],
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 4,
-          "col": 3,
-          "offset": 75
-        }
-      }
-    },
-    "aliases": [
-      "Physical Layer",
-      "Bitübertragung",
-      "Schicht 1"
-    ],
-    "headings": [
-      {
-        "heading": "Arten der Bitübertragung",
-        "level": 2
-      },
-      {
-        "heading": "Kabelgebunden",
-        "level": 3
-      },
-      {
-        "heading": "Beispiele",
-        "level": 4
-      },
-      {
-        "heading": "Drahtlos",
-        "level": 3
-      },
-      {
-        "heading": "Beispiele",
-        "level": 4
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "ISO OSI Referenzmodell",
-        "link": "Bitübertragungsschicht",
-        "relativePath": "DatKom/ISO OSI Referenzmodell.md",
-        "displayText": "Bitübertragung"
       }
     ]
   },
@@ -3847,6 +3857,44 @@
     ]
   },
   {
+    "fileName": "Differentialrechnung",
+    "relativePath": "AfI/Differentialrechnung.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 31
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Konstante Approximation",
+        "level": 3
+      },
+      {
+        "heading": "Lineare Approximation",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Abbildungen",
+        "displayText": "Funktion",
+        "relativePath": "AfI/Abbildungen.md"
+      }
+    ]
+  },
+  {
     "fileName": "Dichte",
     "relativePath": "AfI/Dichte.md",
     "tags": [
@@ -4153,6 +4201,12 @@
         "link": "Abbildungen",
         "relativePath": "AfI/Folgen.md",
         "displayText": "Abbildung"
+      },
+      {
+        "fileName": "Differentialrechnung",
+        "link": "Abbildungen",
+        "relativePath": "AfI/Differentialrechnung.md",
+        "displayText": "Funktion"
       },
       {
         "fileName": "Abzählbarkeit",

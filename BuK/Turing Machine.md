@@ -12,4 +12,4 @@ tags:
 - $B\in\Gamma\setminus\sum\limits$, Leerzeichen
 - $\delta$, Zustandsüberführungsfunktion
 
-![[tm.png]]
+![[res/tm.png]]

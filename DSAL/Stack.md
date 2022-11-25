@@ -18,4 +18,4 @@ tags:
 - Keine Garbage-Collection benötigt
 - Allerdings: maximale Länge
 
-![[stackarray.png]]
+![[res/stackarray.png]]

@@ -2,7 +2,7 @@
   "collapse-filter": false,
   "search": "-path:kanban -path:temp -tag:#Tutorium -file:README -file:index",
   "showTags": false,
-  "showAttachments": false,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
@@ -60,6 +60,6 @@
   "repelStrength": 11.597658790375,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.6206586602971856,
+  "scale": 0.6812079177636088,
   "close": true
 }

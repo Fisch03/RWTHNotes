@@ -9,10 +9,6 @@
       "relativePath": "AfI"
     },
     {
-      "name": "DatKom",
-      "relativePath": "DatKom"
-    },
-    {
       "name": "BuK",
       "relativePath": "BuK"
     },
@@ -21,8 +17,16 @@
       "relativePath": "DSAL"
     },
     {
+      "name": "DatKom",
+      "relativePath": "DatKom"
+    },
+    {
       "name": "FoSAP",
       "relativePath": "FoSAP"
+    },
+    {
+      "name": "LA",
+      "relativePath": "LA"
     },
     {
       "name": "res",
@@ -31,10 +35,6 @@
     {
       "name": "temp",
       "relativePath": "temp"
-    },
-    {
-      "name": "LA",
-      "relativePath": "LA"
     }
   ],
   "nonMdFiles": [
