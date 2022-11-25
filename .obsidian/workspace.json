@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BuK/Registermaschinen.md",
+                "file": "AfI/README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -59,7 +59,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BuK/Registermaschinen.md",
+                "file": "AfI/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,6 +79,8 @@
   },
   "active": "35c6f2430edcd363",
   "lastOpenFiles": [
+    "AfI/README.md",
+    "BuK/Registermaschinen.md",
     "BuK/Nichtdeterministische Turing Machine.md",
     "DSAL/Graphen.md",
     "DSAL/Bäume.md",
@@ -86,8 +88,6 @@
     "DSAL/Doppelt verkettete Liste.md",
     "DSAL/Einfach verkettete Liste.md",
     "FoSAP/NFA.md",
-    "AfI/Relation.md",
-    "AfI/Abbildungen.md",
-    "FoSAP/Potenzmengenautomat.md"
+    "AfI/Relation.md"
   ]
 }
