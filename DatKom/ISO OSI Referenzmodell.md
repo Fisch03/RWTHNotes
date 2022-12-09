@@ -8,7 +8,7 @@ tags:
 6. Darstellung
 5. Sitzung
 4. Transport
-3. Vermittlung
+3. [[Vermittlungsschicht|Vermittlung]]
 2. [[Sicherungsschicht|Sicherung]]
 1. [[Bitübertragungsschicht|Bitübertragung]]
 

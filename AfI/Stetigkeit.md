@@ -6,11 +6,11 @@ tags:
 ## Arten von Stetigkeit
 ### Stetigkeit
 Eine [[Abbildungen|Funktion]] $f:D\subset\mathbb{R}\rightarrow\mathbb{R}$ heißt *stetig* in $x_0\in D$, wenn
-$$\forall\varepsilon>0,\exists\delta=\delta(x_0,\varepsilon)\text{ so, dass } |x-x_0|\subseteq\delta\Rightarrow|f(x)-f(x_0)|\subseteq\varepsilon\quad \forall x\in D$$
+$$\forall\varepsilon>0,\exists\delta>0\text{ so, dass } |x-x_0|<\delta\Rightarrow|f(x)-f(x_0)|<\varepsilon\quad \forall x\in D$$
 zu jeder Genauigkeit $\varepsilon$ von $f(x_0)$ findet sich eine erlaubte Abweichung $\delta$ von $x_0$ so, dass die Auswertung $f(x_0)$  $\varepsilon$-genau ist.
 
 > [!NOTE] Stetigkeit zweier Funktionen
-> Sind zwei Funktionen $f$ und $g$ stetig bei $x_0$. Dann sind $\alpha f+\beta g$ mit $\alpha,\beta\in\mathbb{R}$, $f\cdot g$ und $frac{f}{g}$ auch stetig bei $x_0$. Desweiteren ist $f\circ g$ stetig bei $x_0$ falls $f$ stetig bei $g(x_0)$ 
+> Sind zwei Funktionen $f$ und $g$ stetig bei $x_0$. Dann sind $\alpha f+\beta g$ mit $\alpha,\beta\in\mathbb{R}$, $f\cdot g$ und $\frac{f}{g}$ auch stetig bei $x_0$. Desweiteren ist $f\circ g$ stetig bei $x_0$ falls $f$ stetig bei $g(x_0)$ 
 
 #### Bemerkungen
 1. Stetigkeit hängt vom Auswertungspunkt $x_{0}\in D$ ab.
@@ -18,7 +18,7 @@ zu jeder Genauigkeit $\varepsilon$ von $f(x_0)$ findet sich eine erlaubte Abweic
 
 ### Gleichmäßige Stetigkeit
 $f$ heißt *gleichmäßig stetig*, falls für alle $x\in D$ gilt
-$$\forall\varepsilon>0,\exists\delta=\delta(\varepsilon)\text{ so, dass } |x-y|\subseteq\delta\Rightarrow|f(x)-f(y)|\subseteq\varepsilon\quad \forall x\in D$$
+$$\forall\varepsilon>0,\exists\delta>0\text{ so, dass } |x-y|<\delta\Rightarrow|f(x)-f(y)|<\varepsilon\quad \forall x,y\in D$$
 
 ### Lipschitz-Stetigkeit
 $f$ heißt *Lipschitz-Stetig*, falls $f$ für alle $x,y\in D$

@@ -1,7 +1,7 @@
 [
   {
     "tag": "la",
-    "tagCount": 7,
+    "tagCount": 8,
     "relativePaths": [
       "LA/Vektorräume.md",
       "LA/Untervektorräume.md",
@@ -9,12 +9,13 @@
       "LA/Lineare Unabhängigkeit.md",
       "LA/Lineare Hülle.md",
       "LA/Erzeugendensystem.md",
-      "LA/Basis.md"
+      "LA/Basis.md",
+      "AfI/README.md"
     ]
   },
   {
     "tag": "fosap",
-    "tagCount": 10,
+    "tagCount": 11,
     "relativePaths": [
       "FoSAP/Sprachen.md",
       "FoSAP/Reguläre Ausdrücke.md",
@@ -25,7 +26,8 @@
       "FoSAP/Epsilon-NFA.md",
       "FoSAP/DFA.md",
       "FoSAP/Automaten.md",
-      "FoSAP/Alphabet.md"
+      "FoSAP/Alphabet.md",
+      "AfI/README.md"
     ]
   },
   {
@@ -38,16 +40,19 @@
   },
   {
     "tag": "datkom",
-    "tagCount": 3,
+    "tagCount": 6,
     "relativePaths": [
+      "DatKom/Vermittlungsschicht.md",
       "DatKom/Sicherungsschicht.md",
+      "DatKom/Internet Protocol.md",
       "DatKom/ISO OSI Referenzmodell.md",
-      "DatKom/Bitübertragungsschicht.md"
+      "DatKom/Bitübertragungsschicht.md",
+      "AfI/README.md"
     ]
   },
   {
     "tag": "dsal",
-    "tagCount": 14,
+    "tagCount": 15,
     "relativePaths": [
       "DSAL/Stack.md",
       "DSAL/Sortierverfahren.md",
@@ -62,7 +67,8 @@
       "DSAL/Doppelt verkettete Liste.md",
       "DSAL/Datentypen.md",
       "DSAL/Bäume.md",
-      "DSAL/Bubble Sort.md"
+      "DSAL/Bubble Sort.md",
+      "AfI/README.md"
     ]
   },
   {
@@ -86,7 +92,7 @@
   },
   {
     "tag": "buk",
-    "tagCount": 14,
+    "tagCount": 15,
     "relativePaths": [
       "BuK/universelle TM.md",
       "BuK/k-Band-TM.md",
@@ -101,28 +107,33 @@
       "BuK/Gödelnummern.md",
       "BuK/Entscheidungsprobleme.md",
       "BuK/Entscheidbarkeit.md",
-      "BuK/Drucker.md"
+      "BuK/Drucker.md",
+      "AfI/README.md"
     ]
   },
   {
     "tag": "afi",
-    "tagCount": 26,
+    "tagCount": 30,
     "relativePaths": [
       "AfI/reelle Zahlen.md",
       "AfI/komplexe Zahlen.md",
-      "AfI/kartesisches Produkt.md",
       "AfI/e-Funktion.md",
+      "AfI/kartesisches Produkt.md",
       "AfI/Tupel.md",
       "AfI/Stetigkeit.md",
+      "AfI/Stammfunktionen.md",
       "AfI/Schranken.md",
       "AfI/Relation.md",
       "AfI/Reihen.md",
+      "AfI/README.md",
       "AfI/Polynome.md",
+      "AfI/Partielle Integration.md",
       "AfI/Natürliche Zahlen.md",
       "AfI/Mengen.md",
       "AfI/Mengen-Algebra.md",
       "AfI/Körper.md",
       "AfI/Konvergenz + Divergenz.md",
+      "AfI/Integrale.md",
       "AfI/Induktion.md",
       "AfI/Grenzwerte von Funktionen.md",
       "AfI/Gauß'sche Zahlenebene.md",

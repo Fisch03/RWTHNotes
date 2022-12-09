@@ -18,16 +18,6 @@
     }
   },
   {
-    "fileName": "README",
-    "relativePath": "README.md",
-    "headings": [
-      {
-        "heading": "RWTHNotes",
-        "level": 1
-      }
-    ]
-  },
-  {
     "fileName": "Vektorräume",
     "relativePath": "LA/Vektorräume.md",
     "tags": [
@@ -1145,6 +1135,41 @@
     ]
   },
   {
+    "fileName": "Vermittlungsschicht",
+    "relativePath": "DatKom/Vermittlungsschicht.md",
+    "tags": [
+      "datkom"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 34
+        }
+      }
+    },
+    "links": [
+      {
+        "link": "Internet Protocol",
+        "relativePath": "DatKom/Internet Protocol.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "ISO OSI Referenzmodell",
+        "link": "Vermittlungsschicht",
+        "relativePath": "DatKom/ISO OSI Referenzmodell.md",
+        "displayText": "Vermittlung"
+      }
+    ]
+  },
+  {
     "fileName": "Sicherungsschicht",
     "relativePath": "DatKom/Sicherungsschicht.md",
     "tags": [
@@ -1178,6 +1203,44 @@
     ]
   },
   {
+    "fileName": "Internet Protocol",
+    "relativePath": "DatKom/Internet Protocol.md",
+    "tags": [
+      "datkom"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 34
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Aufgaben",
+        "level": 2
+      },
+      {
+        "heading": "Subnetze",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Vermittlungsschicht",
+        "link": "Internet Protocol",
+        "relativePath": "DatKom/Vermittlungsschicht.md"
+      }
+    ]
+  },
+  {
     "fileName": "ISO OSI Referenzmodell",
     "relativePath": "DatKom/ISO OSI Referenzmodell.md",
     "tags": [
@@ -1207,6 +1270,11 @@
       }
     ],
     "links": [
+      {
+        "link": "Vermittlungsschicht",
+        "displayText": "Vermittlung",
+        "relativePath": "DatKom/Vermittlungsschicht.md"
+      },
       {
         "link": "Sicherungsschicht",
         "displayText": "Sicherung",
@@ -2721,51 +2789,6 @@
     ]
   },
   {
-    "fileName": "kartesisches Produkt",
-    "relativePath": "AfI/kartesisches Produkt.md",
-    "tags": [
-      "afi"
-    ],
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 4,
-          "col": 3,
-          "offset": 31
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Definition",
-        "level": 2
-      },
-      {
-        "heading": "Relationen",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "Mengen",
-        "relativePath": "AfI/Mengen.md"
-      },
-      {
-        "link": "Tupel",
-        "relativePath": "AfI/Tupel.md"
-      },
-      {
-        "link": "Relation",
-        "relativePath": "AfI/Relation.md"
-      }
-    ]
-  },
-  {
     "fileName": "e-Funktion",
     "relativePath": "AfI/e-Funktion.md",
     "tags": [
@@ -2822,6 +2845,51 @@
         "cleanLink": "Folgen",
         "displayText": "wächst monoton",
         "relativePath": "AfI/Folgen.md"
+      }
+    ]
+  },
+  {
+    "fileName": "kartesisches Produkt",
+    "relativePath": "AfI/kartesisches Produkt.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 31
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Relationen",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Mengen",
+        "relativePath": "AfI/Mengen.md"
+      },
+      {
+        "link": "Tupel",
+        "relativePath": "AfI/Tupel.md"
+      },
+      {
+        "link": "Relation",
+        "relativePath": "AfI/Relation.md"
       }
     ]
   },
@@ -2933,6 +3001,43 @@
         "link": "Abbildungen",
         "displayText": "Funktion",
         "relativePath": "AfI/Abbildungen.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Stammfunktionen",
+    "relativePath": "AfI/Stammfunktionen.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 44
+        }
+      }
+    },
+    "aliases": [
+      "Stammfunktion"
+    ],
+    "headings": [
+      {
+        "heading": "Standart-Stammfunktionen",
+        "level": 2
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Integrale",
+        "link": "Stammfunktionen",
+        "relativePath": "AfI/Integrale.md"
       }
     ]
   },
@@ -3132,6 +3237,36 @@
     ]
   },
   {
+    "fileName": "README",
+    "relativePath": "AfI/README.md",
+    "tags": [
+      "afi",
+      "fosap",
+      "la",
+      "dsal",
+      "buk",
+      "datkom"
+    ],
+    "headings": [
+      {
+        "heading": "RWTHNotes",
+        "level": 1
+      },
+      {
+        "heading": "Semester 1",
+        "level": 2
+      },
+      {
+        "heading": "Semester 2",
+        "level": 2
+      },
+      {
+        "heading": "Semester 3",
+        "level": 2
+      }
+    ]
+  },
+  {
     "fileName": "Polynome",
     "relativePath": "AfI/Polynome.md",
     "tags": [
@@ -3166,6 +3301,33 @@
         "link": "komplexe Zahlen",
         "displayText": "komplexes",
         "relativePath": "AfI/komplexe Zahlen.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Partielle Integration",
+    "relativePath": "AfI/Partielle Integration.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 31
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Beispiele",
+        "level": 2
       }
     ]
   },
@@ -3539,6 +3701,56 @@
         "link": "Konvergenz + Divergenz",
         "relativePath": "AfI/Cauchy-Folge.md",
         "displayText": "konvergent"
+      }
+    ]
+  },
+  {
+    "fileName": "Integrale",
+    "relativePath": "AfI/Integrale.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 31
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Rechenregeln für Integrale",
+        "level": 2
+      },
+      {
+        "heading": "Mittelwertsatz",
+        "level": 2
+      },
+      {
+        "heading": "Hauptsatz der Differential und Integralrechnung",
+        "level": 2
+      },
+      {
+        "heading": "Riemann-Integral (Beispiel)",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Abbildungen",
+        "displayText": "Funktion",
+        "relativePath": "AfI/Abbildungen.md"
+      },
+      {
+        "link": "Stammfunktionen",
+        "relativePath": "AfI/Stammfunktionen.md"
       }
     ]
   },
@@ -4189,6 +4401,12 @@
         "link": "Abbildungen",
         "relativePath": "AfI/Relation.md",
         "displayText": "Abbildung"
+      },
+      {
+        "fileName": "Integrale",
+        "link": "Abbildungen",
+        "relativePath": "AfI/Integrale.md",
+        "displayText": "Funktion"
       },
       {
         "fileName": "Grenzwerte von Funktionen",
