@@ -1,316 +1,5 @@
 [
   {
-    "fileName": "Topic Template",
-    "relativePath": "temp/Topic Template.md",
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 4,
-          "col": 3,
-          "offset": 28
-        }
-      }
-    }
-  },
-  {
-    "fileName": "Vektorräume",
-    "relativePath": "LA/Vektorräume.md",
-    "tags": [
-      "la"
-    ],
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 4,
-          "col": 3,
-          "offset": 41
-        }
-      }
-    },
-    "aliases": [
-      "Vektorraum"
-    ],
-    "headings": [
-      {
-        "heading": "Vektorräume",
-        "level": 1
-      },
-      {
-        "heading": "Definition",
-        "level": 3
-      },
-      {
-        "heading": "Variablennamen",
-        "level": 3
-      },
-      {
-        "heading": "Vektorraumaxiome",
-        "level": 3
-      },
-      {
-        "heading": "Addition",
-        "level": 4
-      },
-      {
-        "heading": "Multiplikation",
-        "level": 4
-      },
-      {
-        "heading": "Beispiele",
-        "level": 3
-      },
-      {
-        "heading": "Weiterführend",
-        "level": 4
-      }
-    ],
-    "links": [
-      {
-        "link": "Körper",
-        "relativePath": "AfI/Körper.md"
-      },
-      {
-        "link": "abelsche Gruppe"
-      },
-      {
-        "link": "Untervektorräume",
-        "relativePath": "LA/Untervektorräume.md"
-      },
-      {
-        "link": "Linearkombinationen",
-        "relativePath": "LA/Linearkombinationen.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Untervektorräume",
-        "link": "Vektorräume#^e0e2c0",
-        "relativePath": "LA/Untervektorräume.md",
-        "cleanLink": "Vektorräume",
-        "displayText": "Addition"
-      },
-      {
-        "fileName": "Untervektorräume",
-        "link": "Vektorräume#^81c34c",
-        "relativePath": "LA/Untervektorräume.md",
-        "cleanLink": "Vektorräume",
-        "displayText": "Skalare Multiplikation"
-      },
-      {
-        "fileName": "Untervektorräume",
-        "link": "Vektorräume#^62fe9b",
-        "relativePath": "LA/Untervektorräume.md",
-        "cleanLink": "Vektorräume",
-        "displayText": "Vektorräume > ^62fe9b"
-      },
-      {
-        "fileName": "Lineare Hülle",
-        "link": "Vektorräume",
-        "relativePath": "LA/Lineare Hülle.md",
-        "displayText": "Vektorraum"
-      },
-      {
-        "fileName": "Erzeugendensystem",
-        "link": "Vektorräume",
-        "relativePath": "LA/Erzeugendensystem.md",
-        "displayText": "Vektorraum"
-      },
-      {
-        "fileName": "Basis",
-        "link": "Vektorräume",
-        "relativePath": "LA/Basis.md",
-        "displayText": "Vektorraum"
-      }
-    ]
-  },
-  {
-    "fileName": "Untervektorräume",
-    "relativePath": "LA/Untervektorräume.md",
-    "tags": [
-      "la"
-    ],
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 4,
-          "col": 3,
-          "offset": 68
-        }
-      }
-    },
-    "aliases": [
-      "Untervektorraum",
-      "Unterräume",
-      "Unterraum"
-    ],
-    "headings": [
-      {
-        "heading": "Untervektorräume",
-        "level": 1
-      },
-      {
-        "heading": "Definition",
-        "level": 2
-      },
-      {
-        "heading": "Variablennamen",
-        "level": 2
-      },
-      {
-        "heading": "Beispiele",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "Vektorräume#^e0e2c0",
-        "cleanLink": "Vektorräume",
-        "displayText": "Addition",
-        "relativePath": "LA/Vektorräume.md"
-      },
-      {
-        "link": "Vektorräume#^81c34c",
-        "cleanLink": "Vektorräume",
-        "displayText": "Skalare Multiplikation",
-        "relativePath": "LA/Vektorräume.md"
-      },
-      {
-        "link": "Vektorräume#^62fe9b",
-        "cleanLink": "Vektorräume",
-        "displayText": "Vektorräume > ^62fe9b",
-        "relativePath": "LA/Vektorräume.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Vektorräume",
-        "link": "Untervektorräume",
-        "relativePath": "LA/Vektorräume.md"
-      },
-      {
-        "fileName": "Lineare Hülle",
-        "link": "Untervektorräume",
-        "relativePath": "LA/Lineare Hülle.md",
-        "displayText": "Unterraum"
-      }
-    ]
-  },
-  {
-    "fileName": "Linearkombinationen",
-    "relativePath": "LA/Linearkombinationen.md",
-    "tags": [
-      "la"
-    ],
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 4,
-          "col": 3,
-          "offset": 47
-        }
-      }
-    },
-    "aliases": [
-      "Linearkombination"
-    ],
-    "headings": [
-      {
-        "heading": "Linearkombinationen",
-        "level": 1
-      },
-      {
-        "heading": "Notation",
-        "level": 3
-      },
-      {
-        "heading": "Beispiele",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "Gauß-Verfahren"
-      },
-      {
-        "link": "Erzeugendensystem",
-        "displayText": "EZS",
-        "relativePath": "LA/Erzeugendensystem.md"
-      },
-      {
-        "link": "Erzeugendensystem",
-        "displayText": "EZS",
-        "relativePath": "LA/Erzeugendensystem.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Vektorräume",
-        "link": "Linearkombinationen",
-        "relativePath": "LA/Vektorräume.md"
-      },
-      {
-        "fileName": "Lineare Hülle",
-        "link": "Linearkombinationen",
-        "relativePath": "LA/Lineare Hülle.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Lineare Unabhängigkeit",
-    "relativePath": "LA/Lineare Unabhängigkeit.md",
-    "tags": [
-      "la"
-    ],
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 1,
-          "col": 0,
-          "offset": 1
-        },
-        "end": {
-          "line": 4,
-          "col": 3,
-          "offset": 19
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Lineare Unabhängigkeit",
-        "level": 1
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Basis",
-        "link": "Lineare Unabhängigkeit",
-        "relativePath": "LA/Basis.md",
-        "displayText": "linear unabhängiges"
-      }
-    ]
-  },
-  {
     "fileName": "Lineare Hülle",
     "relativePath": "LA/Lineare Hülle.md",
     "tags": [
@@ -432,6 +121,299 @@
         "fileName": "Basis",
         "link": "Erzeugendensystem",
         "relativePath": "LA/Basis.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Lineare Unabhängigkeit",
+    "relativePath": "LA/Lineare Unabhängigkeit.md",
+    "tags": [
+      "la"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 1,
+          "col": 0,
+          "offset": 1
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 19
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Lineare Unabhängigkeit",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Basis",
+        "link": "Lineare Unabhängigkeit",
+        "relativePath": "LA/Basis.md",
+        "displayText": "linear unabhängiges"
+      }
+    ]
+  },
+  {
+    "fileName": "Vektorräume",
+    "relativePath": "LA/Vektorräume.md",
+    "tags": [
+      "la"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 41
+        }
+      }
+    },
+    "aliases": [
+      "Vektorraum"
+    ],
+    "headings": [
+      {
+        "heading": "Vektorräume",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 3
+      },
+      {
+        "heading": "Variablennamen",
+        "level": 3
+      },
+      {
+        "heading": "Vektorraumaxiome",
+        "level": 3
+      },
+      {
+        "heading": "Addition",
+        "level": 4
+      },
+      {
+        "heading": "Multiplikation",
+        "level": 4
+      },
+      {
+        "heading": "Beispiele",
+        "level": 3
+      },
+      {
+        "heading": "Weiterführend",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Körper",
+        "relativePath": "AfI/Körper.md"
+      },
+      {
+        "link": "abelsche Gruppe"
+      },
+      {
+        "link": "Untervektorräume",
+        "relativePath": "LA/Untervektorräume.md"
+      },
+      {
+        "link": "Linearkombinationen",
+        "relativePath": "LA/Linearkombinationen.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Lineare Hülle",
+        "link": "Vektorräume",
+        "relativePath": "LA/Lineare Hülle.md",
+        "displayText": "Vektorraum"
+      },
+      {
+        "fileName": "Erzeugendensystem",
+        "link": "Vektorräume",
+        "relativePath": "LA/Erzeugendensystem.md",
+        "displayText": "Vektorraum"
+      },
+      {
+        "fileName": "Untervektorräume",
+        "link": "Vektorräume#^e0e2c0",
+        "relativePath": "LA/Untervektorräume.md",
+        "cleanLink": "Vektorräume",
+        "displayText": "Addition"
+      },
+      {
+        "fileName": "Untervektorräume",
+        "link": "Vektorräume#^81c34c",
+        "relativePath": "LA/Untervektorräume.md",
+        "cleanLink": "Vektorräume",
+        "displayText": "Skalare Multiplikation"
+      },
+      {
+        "fileName": "Untervektorräume",
+        "link": "Vektorräume#^62fe9b",
+        "relativePath": "LA/Untervektorräume.md",
+        "cleanLink": "Vektorräume",
+        "displayText": "Vektorräume > ^62fe9b"
+      },
+      {
+        "fileName": "Basis",
+        "link": "Vektorräume",
+        "relativePath": "LA/Basis.md",
+        "displayText": "Vektorraum"
+      }
+    ]
+  },
+  {
+    "fileName": "Untervektorräume",
+    "relativePath": "LA/Untervektorräume.md",
+    "tags": [
+      "la"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 68
+        }
+      }
+    },
+    "aliases": [
+      "Untervektorraum",
+      "Unterräume",
+      "Unterraum"
+    ],
+    "headings": [
+      {
+        "heading": "Untervektorräume",
+        "level": 1
+      },
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Variablennamen",
+        "level": 2
+      },
+      {
+        "heading": "Beispiele",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Vektorräume#^e0e2c0",
+        "cleanLink": "Vektorräume",
+        "displayText": "Addition",
+        "relativePath": "LA/Vektorräume.md"
+      },
+      {
+        "link": "Vektorräume#^81c34c",
+        "cleanLink": "Vektorräume",
+        "displayText": "Skalare Multiplikation",
+        "relativePath": "LA/Vektorräume.md"
+      },
+      {
+        "link": "Vektorräume#^62fe9b",
+        "cleanLink": "Vektorräume",
+        "displayText": "Vektorräume > ^62fe9b",
+        "relativePath": "LA/Vektorräume.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Lineare Hülle",
+        "link": "Untervektorräume",
+        "relativePath": "LA/Lineare Hülle.md",
+        "displayText": "Unterraum"
+      },
+      {
+        "fileName": "Vektorräume",
+        "link": "Untervektorräume",
+        "relativePath": "LA/Vektorräume.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Linearkombinationen",
+    "relativePath": "LA/Linearkombinationen.md",
+    "tags": [
+      "la"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 47
+        }
+      }
+    },
+    "aliases": [
+      "Linearkombination"
+    ],
+    "headings": [
+      {
+        "heading": "Linearkombinationen",
+        "level": 1
+      },
+      {
+        "heading": "Notation",
+        "level": 3
+      },
+      {
+        "heading": "Beispiele",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Gauß-Verfahren"
+      },
+      {
+        "link": "Erzeugendensystem",
+        "displayText": "EZS",
+        "relativePath": "LA/Erzeugendensystem.md"
+      },
+      {
+        "link": "Erzeugendensystem",
+        "displayText": "EZS",
+        "relativePath": "LA/Erzeugendensystem.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Lineare Hülle",
+        "link": "Linearkombinationen",
+        "relativePath": "LA/Lineare Hülle.md"
+      },
+      {
+        "fileName": "Vektorräume",
+        "link": "Linearkombinationen",
+        "relativePath": "LA/Vektorräume.md"
       }
     ]
   },
@@ -688,6 +670,140 @@
     ]
   },
   {
+    "fileName": "Erreichbarkeitsmengen",
+    "relativePath": "FoSAP/Erreichbarkeitsmengen.md",
+    "tags": [
+      "fosap",
+      "todo"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 53
+        }
+      }
+    },
+    "aliases": [
+      "Erreichbarkeitsmenge"
+    ],
+    "headings": [
+      {
+        "heading": "Erreichbarkeitsmengen",
+        "level": 1
+      },
+      {
+        "heading": "Beispiel",
+        "level": 2
+      },
+      {
+        "heading": "Analyse",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "NFA",
+        "relativePath": "FoSAP/NFA.md"
+      }
+    ]
+  },
+  {
+    "fileName": "NFA",
+    "relativePath": "FoSAP/NFA.md",
+    "tags": [
+      "fosap"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 73
+        }
+      }
+    },
+    "aliases": [
+      "Nichtdeterministischer endlicher Automat"
+    ],
+    "headings": [
+      {
+        "heading": "Nichtdeterministischer endlicher Automat (NFA)",
+        "level": 1
+      },
+      {
+        "heading": "Beispiel",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Alphabet.md",
+        "displayText": "",
+        "relativePath": "FoSAP/Alphabet.md"
+      },
+      {
+        "link": "DFA",
+        "relativePath": "FoSAP/DFA.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Erreichbarkeitsmengen",
+        "link": "NFA",
+        "relativePath": "FoSAP/Erreichbarkeitsmengen.md"
+      },
+      {
+        "fileName": "Potenzmengenautomat",
+        "link": "NFA",
+        "relativePath": "FoSAP/Potenzmengenautomat.md"
+      },
+      {
+        "fileName": "Potenzmengenautomat",
+        "link": "NFA",
+        "relativePath": "FoSAP/Potenzmengenautomat.md"
+      },
+      {
+        "fileName": "Epsilon-NFA",
+        "link": "NFA",
+        "relativePath": "FoSAP/Epsilon-NFA.md"
+      },
+      {
+        "fileName": "Automaten",
+        "link": "NFA",
+        "relativePath": "FoSAP/Automaten.md",
+        "displayText": "Nichdeterministischer endlicher Automat (NFA)"
+      },
+      {
+        "fileName": "Automaten",
+        "link": "NFA",
+        "relativePath": "FoSAP/Automaten.md"
+      },
+      {
+        "fileName": "Automaten",
+        "link": "NFA",
+        "relativePath": "FoSAP/Automaten.md",
+        "displayText": "NFAs"
+      },
+      {
+        "fileName": "Nichtdeterministische Turing Machine",
+        "link": "NFA",
+        "relativePath": "BuK/Nichtdeterministische Turing Machine.md"
+      }
+    ]
+  },
+  {
     "fileName": "Potenzmengenautomat",
     "relativePath": "FoSAP/Potenzmengenautomat.md",
     "tags": [
@@ -741,140 +857,6 @@
         "fileName": "Automaten",
         "link": "Potenzmengenautomat",
         "relativePath": "FoSAP/Automaten.md"
-      }
-    ]
-  },
-  {
-    "fileName": "NFA",
-    "relativePath": "FoSAP/NFA.md",
-    "tags": [
-      "fosap"
-    ],
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 4,
-          "col": 3,
-          "offset": 73
-        }
-      }
-    },
-    "aliases": [
-      "Nichtdeterministischer endlicher Automat"
-    ],
-    "headings": [
-      {
-        "heading": "Nichtdeterministischer endlicher Automat (NFA)",
-        "level": 1
-      },
-      {
-        "heading": "Beispiel",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "Alphabet.md",
-        "displayText": "",
-        "relativePath": "FoSAP/Alphabet.md"
-      },
-      {
-        "link": "DFA",
-        "relativePath": "FoSAP/DFA.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Potenzmengenautomat",
-        "link": "NFA",
-        "relativePath": "FoSAP/Potenzmengenautomat.md"
-      },
-      {
-        "fileName": "Potenzmengenautomat",
-        "link": "NFA",
-        "relativePath": "FoSAP/Potenzmengenautomat.md"
-      },
-      {
-        "fileName": "Erreichbarkeitsmengen",
-        "link": "NFA",
-        "relativePath": "FoSAP/Erreichbarkeitsmengen.md"
-      },
-      {
-        "fileName": "Epsilon-NFA",
-        "link": "NFA",
-        "relativePath": "FoSAP/Epsilon-NFA.md"
-      },
-      {
-        "fileName": "Automaten",
-        "link": "NFA",
-        "relativePath": "FoSAP/Automaten.md",
-        "displayText": "Nichdeterministischer endlicher Automat (NFA)"
-      },
-      {
-        "fileName": "Automaten",
-        "link": "NFA",
-        "relativePath": "FoSAP/Automaten.md"
-      },
-      {
-        "fileName": "Automaten",
-        "link": "NFA",
-        "relativePath": "FoSAP/Automaten.md",
-        "displayText": "NFAs"
-      },
-      {
-        "fileName": "Nichtdeterministische Turing Machine",
-        "link": "NFA",
-        "relativePath": "BuK/Nichtdeterministische Turing Machine.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Erreichbarkeitsmengen",
-    "relativePath": "FoSAP/Erreichbarkeitsmengen.md",
-    "tags": [
-      "fosap",
-      "todo"
-    ],
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 4,
-          "col": 3,
-          "offset": 53
-        }
-      }
-    },
-    "aliases": [
-      "Erreichbarkeitsmenge"
-    ],
-    "headings": [
-      {
-        "heading": "Erreichbarkeitsmengen",
-        "level": 1
-      },
-      {
-        "heading": "Beispiel",
-        "level": 2
-      },
-      {
-        "heading": "Analyse",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "NFA",
-        "relativePath": "FoSAP/NFA.md"
       }
     ]
   },
@@ -966,14 +948,14 @@
     ],
     "backlinks": [
       {
-        "fileName": "Potenzmengenautomat",
-        "link": "DFA",
-        "relativePath": "FoSAP/Potenzmengenautomat.md"
-      },
-      {
         "fileName": "NFA",
         "link": "DFA",
         "relativePath": "FoSAP/NFA.md"
+      },
+      {
+        "fileName": "Potenzmengenautomat",
+        "link": "DFA",
+        "relativePath": "FoSAP/Potenzmengenautomat.md"
       },
       {
         "fileName": "Automaten",
@@ -1135,11 +1117,8 @@
     ]
   },
   {
-    "fileName": "Vermittlungsschicht",
-    "relativePath": "DatKom/Vermittlungsschicht.md",
-    "tags": [
-      "datkom"
-    ],
+    "fileName": "Topic Template",
+    "relativePath": "temp/Topic Template.md",
     "frontmatter": {
       "position": {
         "start": {
@@ -1150,243 +1129,10 @@
         "end": {
           "line": 4,
           "col": 3,
-          "offset": 34
+          "offset": 28
         }
       }
-    },
-    "links": [
-      {
-        "link": "Internet Protocol",
-        "relativePath": "DatKom/Internet Protocol.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "ISO OSI Referenzmodell",
-        "link": "Vermittlungsschicht",
-        "relativePath": "DatKom/ISO OSI Referenzmodell.md",
-        "displayText": "Vermittlung"
-      }
-    ]
-  },
-  {
-    "fileName": "Sicherungsschicht",
-    "relativePath": "DatKom/Sicherungsschicht.md",
-    "tags": [
-      "datkom"
-    ],
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 4,
-          "col": 3,
-          "offset": 54
-        }
-      }
-    },
-    "aliases": [
-      "Sicherung",
-      "Schicht 2"
-    ],
-    "backlinks": [
-      {
-        "fileName": "ISO OSI Referenzmodell",
-        "link": "Sicherungsschicht",
-        "relativePath": "DatKom/ISO OSI Referenzmodell.md",
-        "displayText": "Sicherung"
-      }
-    ]
-  },
-  {
-    "fileName": "Internet Protocol",
-    "relativePath": "DatKom/Internet Protocol.md",
-    "tags": [
-      "datkom"
-    ],
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 4,
-          "col": 3,
-          "offset": 34
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Aufgaben",
-        "level": 2
-      },
-      {
-        "heading": "Subnetze",
-        "level": 3
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Vermittlungsschicht",
-        "link": "Internet Protocol",
-        "relativePath": "DatKom/Vermittlungsschicht.md"
-      }
-    ]
-  },
-  {
-    "fileName": "ISO OSI Referenzmodell",
-    "relativePath": "DatKom/ISO OSI Referenzmodell.md",
-    "tags": [
-      "datkom"
-    ],
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 4,
-          "col": 3,
-          "offset": 56
-        }
-      }
-    },
-    "aliases": [
-      "ISO/OSI-Referenzmodell"
-    ],
-    "headings": [
-      {
-        "heading": "Schichten",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "Vermittlungsschicht",
-        "displayText": "Vermittlung",
-        "relativePath": "DatKom/Vermittlungsschicht.md"
-      },
-      {
-        "link": "Sicherungsschicht",
-        "displayText": "Sicherung",
-        "relativePath": "DatKom/Sicherungsschicht.md"
-      },
-      {
-        "link": "Bitübertragungsschicht",
-        "displayText": "Bitübertragung",
-        "relativePath": "DatKom/Bitübertragungsschicht.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Bitübertragungsschicht",
-    "relativePath": "DatKom/Bitübertragungsschicht.md",
-    "tags": [
-      "datkom"
-    ],
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 4,
-          "col": 3,
-          "offset": 75
-        }
-      }
-    },
-    "aliases": [
-      "Physical Layer",
-      "Bitübertragung",
-      "Schicht 1"
-    ],
-    "headings": [
-      {
-        "heading": "Arten der Bitübertragung",
-        "level": 2
-      },
-      {
-        "heading": "Kabelgebunden",
-        "level": 3
-      },
-      {
-        "heading": "Beispiele",
-        "level": 4
-      },
-      {
-        "heading": "Drahtlos",
-        "level": 3
-      },
-      {
-        "heading": "Beispiele",
-        "level": 4
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "ISO OSI Referenzmodell",
-        "link": "Bitübertragungsschicht",
-        "relativePath": "DatKom/ISO OSI Referenzmodell.md",
-        "displayText": "Bitübertragung"
-      }
-    ]
-  },
-  {
-    "fileName": "Stack",
-    "relativePath": "DSAL/Stack.md",
-    "tags": [
-      "dsal"
-    ],
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 3,
-          "col": 3,
-          "offset": 20
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Stack",
-        "level": 1
-      },
-      {
-        "heading": "Array-Implementierung",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "List",
-        "displayText": "Liste",
-        "relativePath": "DSAL/List.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Datentypen",
-        "link": "Stack",
-        "relativePath": "DSAL/Datentypen.md"
-      }
-    ]
+    }
   },
   {
     "fileName": "Sortierverfahren",
@@ -1467,6 +1213,78 @@
     ]
   },
   {
+    "fileName": "Entwurfsparadigmen",
+    "relativePath": "DSAL/Entwurfsparadigmen.md",
+    "tags": [
+      "dsal"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 32
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Entwurfsparadigmen",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "fileName": "Stack",
+    "relativePath": "DSAL/Stack.md",
+    "tags": [
+      "dsal"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 20
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Stack",
+        "level": 1
+      },
+      {
+        "heading": "Array-Implementierung",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "List",
+        "displayText": "Liste",
+        "relativePath": "DSAL/List.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Datentypen",
+        "link": "Stack",
+        "relativePath": "DSAL/Datentypen.md"
+      }
+    ]
+  },
+  {
     "fileName": "Queue",
     "relativePath": "DSAL/Queue.md",
     "tags": [
@@ -1511,6 +1329,40 @@
         "fileName": "Datentypen",
         "link": "Queue",
         "relativePath": "DSAL/Datentypen.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Insertion Sort",
+    "relativePath": "DSAL/Insertion Sort.md",
+    "tags": [
+      "dsal"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 32
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Insertion Sort",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sortierverfahren",
+        "link": "Insertion Sort",
+        "relativePath": "DSAL/Sortierverfahren.md"
       }
     ]
   },
@@ -1589,82 +1441,6 @@
     ]
   },
   {
-    "fileName": "Insertion Sort",
-    "relativePath": "DSAL/Insertion Sort.md",
-    "tags": [
-      "dsal"
-    ],
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 4,
-          "col": 3,
-          "offset": 32
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Insertion Sort",
-        "level": 1
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Sortierverfahren",
-        "link": "Insertion Sort",
-        "relativePath": "DSAL/Sortierverfahren.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Heap",
-    "relativePath": "DSAL/Heap.md",
-    "tags": [
-      "dsal"
-    ],
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 3,
-          "col": 3,
-          "offset": 20
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Heap",
-        "level": 1
-      },
-      {
-        "heading": "Einfügen von Elementen",
-        "level": 3
-      },
-      {
-        "heading": "Entfernen von Elementen",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "Bäume",
-        "displayText": "Binärbaum",
-        "relativePath": "DSAL/Bäume.md"
-      }
-    ]
-  },
-  {
     "fileName": "Graphen",
     "relativePath": "DSAL/Graphen.md",
     "tags": [
@@ -1715,8 +1491,50 @@
     ]
   },
   {
-    "fileName": "Entwurfsparadigmen",
-    "relativePath": "DSAL/Entwurfsparadigmen.md",
+    "fileName": "Heap",
+    "relativePath": "DSAL/Heap.md",
+    "tags": [
+      "dsal"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 20
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Heap",
+        "level": 1
+      },
+      {
+        "heading": "Einfügen von Elementen",
+        "level": 3
+      },
+      {
+        "heading": "Entfernen von Elementen",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Bäume",
+        "displayText": "Binärbaum",
+        "relativePath": "DSAL/Bäume.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Bubble Sort",
+    "relativePath": "DSAL/Bubble Sort.md",
     "tags": [
       "dsal"
     ],
@@ -1736,8 +1554,15 @@
     },
     "headings": [
       {
-        "heading": "Entwurfsparadigmen",
+        "heading": "Bubble Sort",
         "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sortierverfahren",
+        "link": "Bubble Sort",
+        "relativePath": "DSAL/Sortierverfahren.md"
       }
     ]
   },
@@ -1966,40 +1791,6 @@
         "fileName": "Datentypen",
         "link": "Bäume",
         "relativePath": "DSAL/Datentypen.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Bubble Sort",
-    "relativePath": "DSAL/Bubble Sort.md",
-    "tags": [
-      "dsal"
-    ],
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 4,
-          "col": 3,
-          "offset": 32
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Bubble Sort",
-        "level": 1
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Sortierverfahren",
-        "link": "Bubble Sort",
-        "relativePath": "DSAL/Sortierverfahren.md"
       }
     ]
   },
@@ -2335,34 +2126,6 @@
     ]
   },
   {
-    "fileName": "Polynomialzeitalgorithmus",
-    "relativePath": "BuK/Polynomialzeitalgorithmus.md",
-    "tags": [
-      "buk"
-    ],
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 4,
-          "col": 3,
-          "offset": 31
-        }
-      }
-    },
-    "backlinks": [
-      {
-        "fileName": "Entscheidungsprobleme",
-        "link": "Polynomialzeitalgorithmus",
-        "relativePath": "BuK/Entscheidungsprobleme.md"
-      }
-    ]
-  },
-  {
     "fileName": "Nichtdeterministische Turing Machine",
     "relativePath": "BuK/Nichtdeterministische Turing Machine.md",
     "tags": [
@@ -2407,6 +2170,34 @@
         "link": "Nichtdeterministische Turing Machine",
         "relativePath": "BuK/Entscheidungsprobleme.md",
         "displayText": "NTM"
+      }
+    ]
+  },
+  {
+    "fileName": "Polynomialzeitalgorithmus",
+    "relativePath": "BuK/Polynomialzeitalgorithmus.md",
+    "tags": [
+      "buk"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 31
+        }
+      }
+    },
+    "backlinks": [
+      {
+        "fileName": "Entscheidungsprobleme",
+        "link": "Polynomialzeitalgorithmus",
+        "relativePath": "BuK/Entscheidungsprobleme.md"
       }
     ]
   },
@@ -2665,6 +2456,215 @@
     ]
   },
   {
+    "fileName": "Internet Protocol",
+    "relativePath": "DatKom/Internet Protocol.md",
+    "tags": [
+      "datkom"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 34
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Aufgaben",
+        "level": 2
+      },
+      {
+        "heading": "Subnetze",
+        "level": 3
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Vermittlungsschicht",
+        "link": "Internet Protocol",
+        "relativePath": "DatKom/Vermittlungsschicht.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Vermittlungsschicht",
+    "relativePath": "DatKom/Vermittlungsschicht.md",
+    "tags": [
+      "datkom"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 34
+        }
+      }
+    },
+    "links": [
+      {
+        "link": "Internet Protocol",
+        "relativePath": "DatKom/Internet Protocol.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "ISO OSI Referenzmodell",
+        "link": "Vermittlungsschicht",
+        "relativePath": "DatKom/ISO OSI Referenzmodell.md",
+        "displayText": "Vermittlung"
+      }
+    ]
+  },
+  {
+    "fileName": "Sicherungsschicht",
+    "relativePath": "DatKom/Sicherungsschicht.md",
+    "tags": [
+      "datkom"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "aliases": [
+      "Sicherung",
+      "Schicht 2"
+    ],
+    "backlinks": [
+      {
+        "fileName": "ISO OSI Referenzmodell",
+        "link": "Sicherungsschicht",
+        "relativePath": "DatKom/ISO OSI Referenzmodell.md",
+        "displayText": "Sicherung"
+      }
+    ]
+  },
+  {
+    "fileName": "ISO OSI Referenzmodell",
+    "relativePath": "DatKom/ISO OSI Referenzmodell.md",
+    "tags": [
+      "datkom"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 56
+        }
+      }
+    },
+    "aliases": [
+      "ISO/OSI-Referenzmodell"
+    ],
+    "headings": [
+      {
+        "heading": "Schichten",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Vermittlungsschicht",
+        "displayText": "Vermittlung",
+        "relativePath": "DatKom/Vermittlungsschicht.md"
+      },
+      {
+        "link": "Sicherungsschicht",
+        "displayText": "Sicherung",
+        "relativePath": "DatKom/Sicherungsschicht.md"
+      },
+      {
+        "link": "Bitübertragungsschicht",
+        "displayText": "Bitübertragung",
+        "relativePath": "DatKom/Bitübertragungsschicht.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Bitübertragungsschicht",
+    "relativePath": "DatKom/Bitübertragungsschicht.md",
+    "tags": [
+      "datkom"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 75
+        }
+      }
+    },
+    "aliases": [
+      "Physical Layer",
+      "Bitübertragung",
+      "Schicht 1"
+    ],
+    "headings": [
+      {
+        "heading": "Arten der Bitübertragung",
+        "level": 2
+      },
+      {
+        "heading": "Kabelgebunden",
+        "level": 3
+      },
+      {
+        "heading": "Beispiele",
+        "level": 4
+      },
+      {
+        "heading": "Drahtlos",
+        "level": 3
+      },
+      {
+        "heading": "Beispiele",
+        "level": 4
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "ISO OSI Referenzmodell",
+        "link": "Bitübertragungsschicht",
+        "relativePath": "DatKom/ISO OSI Referenzmodell.md",
+        "displayText": "Bitübertragung"
+      }
+    ]
+  },
+  {
     "fileName": "reelle Zahlen",
     "relativePath": "AfI/reelle Zahlen.md",
     "tags": [
@@ -2789,6 +2789,51 @@
     ]
   },
   {
+    "fileName": "kartesisches Produkt",
+    "relativePath": "AfI/kartesisches Produkt.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 31
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Definition",
+        "level": 2
+      },
+      {
+        "heading": "Relationen",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Mengen",
+        "relativePath": "AfI/Mengen.md"
+      },
+      {
+        "link": "Tupel",
+        "relativePath": "AfI/Tupel.md"
+      },
+      {
+        "link": "Relation",
+        "relativePath": "AfI/Relation.md"
+      }
+    ]
+  },
+  {
     "fileName": "e-Funktion",
     "relativePath": "AfI/e-Funktion.md",
     "tags": [
@@ -2849,51 +2894,6 @@
     ]
   },
   {
-    "fileName": "kartesisches Produkt",
-    "relativePath": "AfI/kartesisches Produkt.md",
-    "tags": [
-      "afi"
-    ],
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 4,
-          "col": 3,
-          "offset": 31
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Definition",
-        "level": 2
-      },
-      {
-        "heading": "Relationen",
-        "level": 2
-      }
-    ],
-    "links": [
-      {
-        "link": "Mengen",
-        "relativePath": "AfI/Mengen.md"
-      },
-      {
-        "link": "Tupel",
-        "relativePath": "AfI/Tupel.md"
-      },
-      {
-        "link": "Relation",
-        "relativePath": "AfI/Relation.md"
-      }
-    ]
-  },
-  {
     "fileName": "Tupel",
     "relativePath": "AfI/Tupel.md",
     "tags": [
@@ -2940,6 +2940,33 @@
         "fileName": "kartesisches Produkt",
         "link": "Tupel",
         "relativePath": "AfI/kartesisches Produkt.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Substitution",
+    "relativePath": "AfI/Substitution.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 31
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Standartsubstitutionen",
+        "level": 2
       }
     ]
   },
@@ -3042,6 +3069,44 @@
     ]
   },
   {
+    "fileName": "Relation",
+    "relativePath": "AfI/Relation.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 4,
+          "col": 3,
+          "offset": 41
+        }
+      }
+    },
+    "aliases": [
+      "Relationen"
+    ],
+    "links": [
+      {
+        "link": "Abbildungen",
+        "displayText": "Abbildung",
+        "relativePath": "AfI/Abbildungen.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "kartesisches Produkt",
+        "link": "Relation",
+        "relativePath": "AfI/kartesisches Produkt.md"
+      }
+    ]
+  },
+  {
     "fileName": "Schranken",
     "relativePath": "AfI/Schranken.md",
     "tags": [
@@ -3120,44 +3185,6 @@
         "fileName": "Dichte",
         "link": "Schranken",
         "relativePath": "AfI/Dichte.md"
-      }
-    ]
-  },
-  {
-    "fileName": "Relation",
-    "relativePath": "AfI/Relation.md",
-    "tags": [
-      "afi"
-    ],
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 4,
-          "col": 3,
-          "offset": 41
-        }
-      }
-    },
-    "aliases": [
-      "Relationen"
-    ],
-    "links": [
-      {
-        "link": "Abbildungen",
-        "displayText": "Abbildung",
-        "relativePath": "AfI/Abbildungen.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "kartesisches Produkt",
-        "link": "Relation",
-        "relativePath": "AfI/kartesisches Produkt.md"
       }
     ]
   },
@@ -3332,46 +3359,6 @@
     ]
   },
   {
-    "fileName": "Natürliche Zahlen",
-    "relativePath": "AfI/Natürliche Zahlen.md",
-    "tags": [
-      "afi"
-    ],
-    "frontmatter": {
-      "position": {
-        "start": {
-          "line": 0,
-          "col": 0,
-          "offset": 0
-        },
-        "end": {
-          "line": 3,
-          "col": 3,
-          "offset": 21
-        }
-      }
-    },
-    "headings": [
-      {
-        "heading": "Bemerkung",
-        "level": 3
-      }
-    ],
-    "links": [
-      {
-        "link": "Induktion",
-        "relativePath": "AfI/Induktion.md"
-      }
-    ],
-    "backlinks": [
-      {
-        "fileName": "Mengen",
-        "link": "Natürliche Zahlen",
-        "relativePath": "AfI/Mengen.md"
-      }
-    ]
-  },
-  {
     "fileName": "Mengen",
     "relativePath": "AfI/Mengen.md",
     "tags": [
@@ -3462,6 +3449,46 @@
     ]
   },
   {
+    "fileName": "Natürliche Zahlen",
+    "relativePath": "AfI/Natürliche Zahlen.md",
+    "tags": [
+      "afi"
+    ],
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "col": 3,
+          "offset": 21
+        }
+      }
+    },
+    "headings": [
+      {
+        "heading": "Bemerkung",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Induktion",
+        "relativePath": "AfI/Induktion.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Mengen",
+        "link": "Natürliche Zahlen",
+        "relativePath": "AfI/Mengen.md"
+      }
+    ]
+  },
+  {
     "fileName": "Mengen-Algebra",
     "relativePath": "AfI/Mengen-Algebra.md",
     "tags": [
@@ -3545,11 +3572,6 @@
     ],
     "backlinks": [
       {
-        "fileName": "Vektorräume",
-        "link": "Körper",
-        "relativePath": "LA/Vektorräume.md"
-      },
-      {
         "fileName": "Lineare Hülle",
         "link": "Körper",
         "relativePath": "LA/Lineare Hülle.md"
@@ -3558,6 +3580,11 @@
         "fileName": "Erzeugendensystem",
         "link": "Körper",
         "relativePath": "LA/Erzeugendensystem.md"
+      },
+      {
+        "fileName": "Vektorräume",
+        "link": "Körper",
+        "relativePath": "LA/Vektorräume.md"
       },
       {
         "fileName": "Basis",

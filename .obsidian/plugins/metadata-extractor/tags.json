@@ -3,12 +3,12 @@
     "tag": "la",
     "tagCount": 8,
     "relativePaths": [
+      "LA/Lineare Hülle.md",
+      "LA/Erzeugendensystem.md",
+      "LA/Lineare Unabhängigkeit.md",
       "LA/Vektorräume.md",
       "LA/Untervektorräume.md",
       "LA/Linearkombinationen.md",
-      "LA/Lineare Unabhängigkeit.md",
-      "LA/Lineare Hülle.md",
-      "LA/Erzeugendensystem.md",
       "LA/Basis.md",
       "AfI/README.md"
     ]
@@ -20,9 +20,9 @@
       "FoSAP/Sprachen.md",
       "FoSAP/Reguläre Ausdrücke.md",
       "FoSAP/Produktautomat.md",
-      "FoSAP/Potenzmengenautomat.md",
-      "FoSAP/NFA.md",
       "FoSAP/Erreichbarkeitsmengen.md",
+      "FoSAP/NFA.md",
+      "FoSAP/Potenzmengenautomat.md",
       "FoSAP/Epsilon-NFA.md",
       "FoSAP/DFA.md",
       "FoSAP/Automaten.md",
@@ -34,40 +34,28 @@
     "tag": "todo",
     "tagCount": 2,
     "relativePaths": [
-      "FoSAP/Potenzmengenautomat.md",
-      "FoSAP/Erreichbarkeitsmengen.md"
-    ]
-  },
-  {
-    "tag": "datkom",
-    "tagCount": 6,
-    "relativePaths": [
-      "DatKom/Vermittlungsschicht.md",
-      "DatKom/Sicherungsschicht.md",
-      "DatKom/Internet Protocol.md",
-      "DatKom/ISO OSI Referenzmodell.md",
-      "DatKom/Bitübertragungsschicht.md",
-      "AfI/README.md"
+      "FoSAP/Erreichbarkeitsmengen.md",
+      "FoSAP/Potenzmengenautomat.md"
     ]
   },
   {
     "tag": "dsal",
     "tagCount": 15,
     "relativePaths": [
-      "DSAL/Stack.md",
       "DSAL/Sortierverfahren.md",
       "DSAL/Selection Sort.md",
-      "DSAL/Queue.md",
-      "DSAL/List.md",
-      "DSAL/Insertion Sort.md",
-      "DSAL/Heap.md",
-      "DSAL/Graphen.md",
       "DSAL/Entwurfsparadigmen.md",
+      "DSAL/Stack.md",
+      "DSAL/Queue.md",
+      "DSAL/Insertion Sort.md",
+      "DSAL/List.md",
+      "DSAL/Graphen.md",
+      "DSAL/Heap.md",
+      "DSAL/Bubble Sort.md",
       "DSAL/Einfach verkettete Liste.md",
       "DSAL/Doppelt verkettete Liste.md",
       "DSAL/Datentypen.md",
       "DSAL/Bäume.md",
-      "DSAL/Bubble Sort.md",
       "AfI/README.md"
     ]
   },
@@ -101,8 +89,8 @@
       "BuK/Rekursive Aufzählbarkeit.md",
       "BuK/Registermaschinen.md",
       "BuK/Postsches Korrespondenzproblem.md",
-      "BuK/Polynomialzeitalgorithmus.md",
       "BuK/Nichtdeterministische Turing Machine.md",
+      "BuK/Polynomialzeitalgorithmus.md",
       "BuK/LOOP-Programme.md",
       "BuK/Gödelnummern.md",
       "BuK/Entscheidungsprobleme.md",
@@ -112,24 +100,37 @@
     ]
   },
   {
+    "tag": "datkom",
+    "tagCount": 6,
+    "relativePaths": [
+      "DatKom/Internet Protocol.md",
+      "DatKom/Vermittlungsschicht.md",
+      "DatKom/Sicherungsschicht.md",
+      "DatKom/ISO OSI Referenzmodell.md",
+      "DatKom/Bitübertragungsschicht.md",
+      "AfI/README.md"
+    ]
+  },
+  {
     "tag": "afi",
-    "tagCount": 30,
+    "tagCount": 31,
     "relativePaths": [
       "AfI/reelle Zahlen.md",
       "AfI/komplexe Zahlen.md",
-      "AfI/e-Funktion.md",
       "AfI/kartesisches Produkt.md",
+      "AfI/e-Funktion.md",
       "AfI/Tupel.md",
+      "AfI/Substitution.md",
       "AfI/Stetigkeit.md",
       "AfI/Stammfunktionen.md",
-      "AfI/Schranken.md",
       "AfI/Relation.md",
+      "AfI/Schranken.md",
       "AfI/Reihen.md",
       "AfI/README.md",
       "AfI/Polynome.md",
       "AfI/Partielle Integration.md",
-      "AfI/Natürliche Zahlen.md",
       "AfI/Mengen.md",
+      "AfI/Natürliche Zahlen.md",
       "AfI/Mengen-Algebra.md",
       "AfI/Körper.md",
       "AfI/Konvergenz + Divergenz.md",
